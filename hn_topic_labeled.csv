@@ -1,0 +1,1102 @@
+text,label,label_source,notes,comment_id,author,created_at,thread_month,source_url,parent_id
+"Im continuing my work on my apps but ive decided to focus extra on these two the past month and will focus on it more in this month.
+1. https://myvisualroutine.com which i just also recently launched on Android after an extensive testing period. Its so great to hear from parents who find my app useful for them and their family, thats what its all about!
+2. https://stao.app i recently added some simple workouts between positions just to get some stretches in, i found it really helpful and ive gotten great feedback from my users
+3. Besides those, i have other apps in https://tskulbru.dev/portfolio/ which i will rotate to probably in july and try and expand them more.",end_user_app,ai_prelabel,,48587701,tskulbru,2026-06-18T16:18:18Z,June 2026,https://news.ycombinator.com/item?id=48587701,48528779
+"I made a select-to-copy app [https://pluks.app]. I recently realised copy paste is a 4 step process on mac (natively) - select copy (CMD+C) and then activating the window to be pasted in then CMD V, a simple select to copy and deep click paste will bring this action that we do maybe 100 times a day to 2 steps from 4. Solved it for my own use. Sharing here in case anybody else feels like trying this out.",end_user_app,ai_prelabel,,48585251,darth-pixit,2026-06-18T13:46:58Z,June 2026,https://news.ycombinator.com/item?id=48585251,48528779
+open source post quantum zero knowledge cloud storage https://shieldfive.com,developer_tools,ai_prelabel,,48583266,warecho,2026-06-18T10:15:46Z,June 2026,https://news.ycombinator.com/item?id=48583266,48528779
+"I’m still trying to figure out how to convert “Meitian’s” 2,000 users into my own customers. Currently, the free tarot reading feature I offer has been very well-received, but I’m still unsure how to provide product features that would make users more willing to pay.
+If you’re also a tarot enthusiast, please let me know: what kind of services would you be willing to pay for?",end_user_app,ai_prelabel,,48579817,18272837023,2026-06-18T02:22:36Z,June 2026,https://news.ycombinator.com/item?id=48579817,48528779
+"Hi, Currently working on NextBunny.co
+
+NextBunny is a visual development platform for product builders.One system to go from idea → design → production. No Handoffs. No tool switching. Full control.Perfect for Next.js and React apps.
+
+Modern and affordable Figma,Framer alternative but without hype or lock in.",developer_tools,ai_prelabel,,48578001,mvsingh,2026-06-17T22:40:56Z,June 2026,https://news.ycombinator.com/item?id=48578001,48528779
+"A LIMS and management platform for dairy farms. The industry is locked into a couple of proprietary softwares and data surfaces that don't integrate (eg. cow health and nutrition at the same time), so I'm pulling them together to a postgres schema for proper descriptive and predictive modeling.",end_user_app,ai_prelabel,,48577021,padge01,2026-06-17T21:14:49Z,June 2026,https://news.ycombinator.com/item?id=48577021,48528779
+"http://storywatch.org
+
+It's an aggregator for fanfiction and web fiction. Planning on adding some Reddit like and social features.",end_user_app,ai_prelabel,,48576115,storywatch,2026-06-17T20:07:51Z,June 2026,https://news.ycombinator.com/item?id=48576115,48528779
+"Still working on leaf: a terminal Markdown previewer with a GUI-like experience.
+
+https://github.com/RivoLink/leaf",developer_tools,ai_prelabel,,48575819,RivoLink,2026-06-17T19:44:54Z,June 2026,https://news.ycombinator.com/item?id=48575819,48528779
+Trying to scale text inference to 1 million tok/s on cheap hardware.,ai_ml,ai_prelabel,,48575620,pinstripes,2026-06-17T19:33:44Z,June 2026,https://news.ycombinator.com/item?id=48575620,48528779
+"Working on a biological inspired spik8ng neural network written from scratch in Java. So far I implemented homeostatic STDP, dendritic branches competition, lateral neuronal inhibition (with different strategies), dopamine based rewarding and an adaptive stabilizer.
+Multiple emispheres and layers are supported.
+Why I'm doing It? Just for fun and learning! 
+My very first goal is to make a simple OCR working..
+Then, the real fun would be having a cockroach moving in my house driven by this virtual brain.",ai_ml,ai_prelabel,,48575567,frenz1979,2026-06-17T19:30:04Z,June 2026,https://news.ycombinator.com/item?id=48575567,48528779
+"Working on a web platform where:
+You post a 3D model design request while making a pledge (like submitting a ticket) and the community can make additional pledges to attract designers to make things missing from online 3D model libraries like thingiverse and turbosquid.
+Essentially, we're allowing 3D printing enthusiasts who don't know how to design, visual effect (VFX) professionals to request designs from 3D artists, designers, engineers with community funding essentially.
+Designers own the IP and are encouraged to enrich the public 3D model libraries while getting paid.",end_user_app,ai_prelabel,,48574940,markosn,2026-06-17T18:50:36Z,June 2026,https://news.ycombinator.com/item?id=48574940,48528779
+"I’m working on Hyperplane Eval, a local property-based testing tool for AI agents that automatically discovers behavioral failure regions instead of relying on manually written prompts.
+
+https://github.com/Aquithm/hyperplane",developer_tools,ai_prelabel,,48572426,marten-aqua,2026-06-17T16:05:39Z,June 2026,https://news.ycombinator.com/item?id=48572426,48528779
+"I am working on https://www.accessmrf.com a catalog for all health care prices published by insurers under the Transparency in Coverage rule.
+
+I recently wrote a blog post using Min Hashing to estimate that at least 90% of the 1.17 petabyte dataset are duplicates and I keep investigating new ways of making this dataset manageable. https://www.felixhaba.com/writing/simplifying-healthcare-pri...",end_user_app,ai_prelabel,,48571286,feliixh,2026-06-17T14:46:35Z,June 2026,https://news.ycombinator.com/item?id=48571286,48528779
+"Bit late here! I'm working on Etymon, a daily etymology puzzle. Each puzzle has six clues to help reveal a hidden word. The cognate clue (4) gives two words that share the same root with the hidden word. Today's are SOFA + DIVAN. I've made it free mon - fri, no email needed, and gated the weekends and puzzle archive. https://etymonpuzzle.com/",end_user_app,ai_prelabel,,48571078,Etymon,2026-06-17T14:30:18Z,June 2026,https://news.ycombinator.com/item?id=48571078,48528779
+"I've been vibe coding a few things as of late, all for personal use
+
+- https://homail.shanehoban.com - resend clone (transactional emails)
+
+- https://mindmap.shanehoban.com - my canvas note taking app
+
+- https://bnb.shanehoban.com - my airbnb for family use
+
+- https://hsk.shanehoban.com - the starter-kit I made for making these apps (available on github: https://github.com/shanehoban/ho-starter-kit)",end_user_app,ai_prelabel,,48568125,shanehoban,2026-06-17T10:05:33Z,June 2026,https://news.ycombinator.com/item?id=48568125,48528779
+"I continue to work on https://github.com/PulkitBanta/connectio. A local proxy manager to connect servers and expose a single url outside.
+
+I initially created this to work with the MCP servers as I needed OAuth to work locally and go through UI -> backend -> MCP client.
+
+I add some features to this every now and then. Would like to have some other users for same :)",developer_tools,ai_prelabel,,48565655,pulkitbanta,2026-06-17T04:26:50Z,June 2026,https://news.ycombinator.com/item?id=48565655,48528779
+"I am developing a phone system using Asterisk. In my country, Asterisk is not widely known and is considered a niche piece of software, so my development work is not highly regarded at this time.",developer_tools,ai_prelabel,,48564221,hasudon7171,2026-06-17T00:28:11Z,June 2026,https://news.ycombinator.com/item?id=48564221,48528779
+"I was thinking about how to get LLMs to efficiently generate narrative content for unscripted NPCs and then I ended up building Open-Write. What started as a test to see where the system would break down on long-form content generation, just became a system for producing long-form content generation.
+
+https://open-write-studio.com/index.html",ai_ml,ai_prelabel,,48563751,fredbrown1856,2026-06-16T23:31:39Z,June 2026,https://news.ycombinator.com/item?id=48563751,48528779
+"I made Beacon, a tiny iOS app for answering: “which of my friends is free to talk right now?”
+
+It’s basically a one-to-many phone call that only one person can answer. Send a beacon to a group, and everyone gets rung at the same time. The first person who answers gets connected for a 1-1 call, and for everyone else the signal drops silently. No missed-calls or pressure to answer. Works pretty well given most people keep their phones on silent (and there are in-app settings for quiet hours too).
+
+iOS/TestFlight only for now. It works best if you're able to join with at least four people you don't speak with as much as you'd like. I have a couple dozen connections on the app now, and it feels like magic to me. Would love feedback from both introverts and extroverts who still like phone calls, or wish they had more of them:
+
+https://trybeacon.chat/
+
+Android coming soon!",end_user_app,ai_prelabel,,48557568,cjflog,2026-06-16T16:14:24Z,June 2026,https://news.ycombinator.com/item?id=48557568,48528779
+"I'm building an RF monitoring system.
+
+It can tell you things like:
+
+- The car that parked nearby last night coincided with a ""Derek's Galaxy Buds"" device with MAC address aa:bb:cc:dd:ee:ff. The buds also drove by briefly the previous night.
+
+- Alert on sudden cross-specturm disturbance (e.g. burglars using a cheap jammer to disable WiFi cameras).
+
+- Alert on known device contact loss (powered off / left premises).
+
+- Review device movement across a campus/neighborhood (using multiple listening pods).
+
+I have a working PoC. It can run on a cheap, low-power computer (e.g. Raspberry Pi) supporting multiple RF sensors (BT/BLE/WiFi). Has a web UI. Can publish events to an external security system. Currently working on an LLM interface to make it trivial for a non-technical operator to set policies and ask questions about events.
+
+Could be sold as an appliance or a license for a DIY build.
+
+Seed investors are welcome to contact rf-monitor@tuta.com",end_user_app,ai_prelabel,,48556078,rf-monitor,2026-06-16T14:43:34Z,June 2026,https://news.ycombinator.com/item?id=48556078,48528779
+"I'm building MyLLM, a (another) private AI assistant for iPhone, it runs models on-device (llama.cpp + Metal) or against your own server, so nothing leaves your phone.
+
+The fun part lately has been MyLLMos: the assistant builds HTML/Python apps on the fly, and you keep the ones you like in a gallery to re-run. It's slowly becoming a home screen for things your AI made for you. There's also an app marketplace, it's all free and open, HTML5 based, can be edited in the app or you can get the like of 'Fable' to generate an advance code and the app will happily store it and run it on your iPhone.
+
+https://www.opticell-limited.com/myllm-os",ai_ml,ai_prelabel,,48555350,TeamDzX,2026-06-16T13:53:41Z,June 2026,https://news.ycombinator.com/item?id=48555350,48528779
+"I've been working on a web-based multiplayer game that allows the player to act as a Head Coach of a college football team.
+
+https://head.ball.coach/
+
+I started working on this in my free time in 2010 or 2011, and initially used it as a project to learn databases, cloud, et cetera. I never actually set out to be a game developer!
+
+So this is my first attempt at game design, and has its share of issues, but I'm proud of it.",end_user_app,ai_prelabel,,48553943,reeeem,2026-06-16T12:06:25Z,June 2026,https://news.ycombinator.com/item?id=48553943,48528779
+"building a tool for working with various types of data (for example for organizing workshop jobs, handling orders, managing buildings, ..., just all kinds of data);
+
+I recorded a quick walkthrough video here:
+https://www.youtube.com/watch?v=skK6xMJxttk
+
+(if you want to join the beta, you can create an account for free:
+https://www.tnxapi.com/UI/CreateAccount.php
+I'd be happy to hear your feedback)",end_user_app,ai_prelabel,,48553775,Marten42,2026-06-16T11:51:27Z,June 2026,https://news.ycombinator.com/item?id=48553775,48528779
+"I'm continuing my work on https://thingstohave.app – a flexible and social wishlist app.
+
+Usually, I barely report on this thread once every few months, but this month was highly productive:
+
+1. I changed how lists appeared in the UI to fix a very annoying pattern where users were confusing lists and things.
+2. I finished adding image uploads. Now you can add and view image attachments.
+
+This was quite a challenging task because there are a lot of security implications, and Cloudflare Workers don't support sharp. So I was implementing all the pixel bomb detection, optimizations, and other stuff by myself. Also, self hosted https://imgproxy.net came in handy as a price-efficient image processing solution.
+
+While images are seen in List view (with a layout I'm very proud about!), gallery view is still under testing, as I'm still not completely happy with how it integrates with previous UI decisions.
+3. I developed, and delivered ton of small QoL features and bugfixes. Also a few bigger features are in testing.
+4. Generally, the app is close to being feature-complete for V1, so I'm slowly starting to work on marketing. It is way less entertaining than reiterating on the same for 2 years straight:(",end_user_app,ai_prelabel,,48553463,brachkow,2026-06-16T11:16:19Z,June 2026,https://news.ycombinator.com/item?id=48553463,48528779
+"A DB-backed queue backend for django.tasks
+
+Basically what would I want to see if Django shipped a queue backend like Rails did with Solid Queue?
+
+https://github.com/coriocactus/dj_queue",developer_tools,ai_prelabel,,48552999,coriocactus,2026-06-16T10:10:48Z,June 2026,https://news.ycombinator.com/item?id=48552999,48528779
+"Still working on https://fabric.shivan.dev/ - its a local-first app which lets you review markdown, answer Q&As and review code with your agents. Still working out a few bugs as I use it in my workflow. Also added a CLI.
+
+Not sure if I should be monetising this in anyway - maybe through a cloud sync feature. But it's useful enough for me right now.",developer_tools,ai_prelabel,,48552235,7237139812,2026-06-16T08:24:09Z,June 2026,https://news.ycombinator.com/item?id=48552235,48528779
+"Working on a mobile app, a simple free BMI calculator for Android. Nothing new, fancy, or groundbreaking. It's just that I wanted to start from somewhere. Vibe coding it in Expo/React and figuring out the entire process",end_user_app,ai_prelabel,,48551700,pknerd,2026-06-16T07:13:30Z,June 2026,https://news.ycombinator.com/item?id=48551700,48528779
+"Hi HN! I built aiexpo.app — a 
+directory of 1,600+ AI tools across 
+70+ categories.
+
+I started it 2 months ago because 
+I was frustrated searching for AI 
+tools across dozens of different 
+sites. Everything is in one place:
+compare tools, filter by category, 
+read reviews, find free alternatives.
+
+Covers everything from AI chatbots, 
+image generators, coding tools, 
+video tools, to AI agents.
+
+Updated daily as new tools launch.
+
+Happy to answer any questions about 
+how I built it or what's in there!",end_user_app,ai_prelabel,,48550711,aiexpo_app,2026-06-16T04:48:56Z,June 2026,https://news.ycombinator.com/item?id=48550711,48528779
+"I am working on an online recipe card editor. If you are interested, let me know and I can have you beta test it when it's ready.",end_user_app,ai_prelabel,,48550248,bobblywobbles,2026-06-16T03:33:49Z,June 2026,https://news.ycombinator.com/item?id=48550248,48528779
+"https://gymify.it to seamlessly integrate exercise into daily life, rather than rigidly scheduling and compartmentalizing it. Small exercise sessions of 1-2 minutes throughout the day clear my head, give me fresh ideas, and keep me in shape. I'm building this site as a tool to keep track in a pressure-free way and to discover new exercises. It's partly about social accountability and one of the key ideas is to see what people do and don't do in terms of exercise.",end_user_app,ai_prelabel,,48548957,catuscubitus,2026-06-16T00:24:40Z,June 2026,https://news.ycombinator.com/item?id=48548957,48528779
+"I'm currently building https://bulletpointpodcast.com/
+
+Currently, for 27 podcasts, the episodes are fetched the day they are released and are summarized in nested bullet points.
+
+I still don't know if I should just keep adding more and more podcasts or if I should turn it into a real set of tools where users could, among other things, enter the link of a podcast episode and get it turned into bullet points.",end_user_app,ai_prelabel,,48548151,pierreft,2026-06-15T22:54:10Z,June 2026,https://news.ycombinator.com/item?id=48548151,48528779
+"I'm working on a thing I'm calling TOASST, or the Tiny Open Android Smartphone-based Smart Telescope. The basic idea is to use a smartphone (often the best camera in your house) to do electronically assisted astronomy/astrophotography a la Seestar. I've been working on the solidworks design for a mount to hold a phone for about 3 weeks and started the Arduino firmware this week. Eventually I'll write a small android app to control the mount and coordinate astrophotography sessions, hosted via wifi hotspot so you can see the results coming in on another device.
+
+This project started when my partner told me I couldn't buy a Seestar, so I decided ""fuck it, I'll build my own!"" It's still early days but I think there's something cool here. I'm designing the whole thing to be easy and cheap to print and build. I hope someday this will be the kind of project that a sufficiently motivated teenager will be able to build with minimal experience and an old smartphone; maybe it's healing my inner child, lol.",end_user_app,ai_prelabel,,48547842,nameless912,2026-06-15T22:24:33Z,June 2026,https://news.ycombinator.com/item?id=48547842,48528779
+I'm working on my easy Linux installer and its website. https://1clicklinux.org,developer_tools,ai_prelabel,,48547812,arusekk,2026-06-15T22:21:09Z,June 2026,https://news.ycombinator.com/item?id=48547812,48528779
+"an array language. now I'm working on the tokens->three address code->bytecode translation. 
+I'm hoping to get that done this week, then start implementing the more important builtins&library functions. you'd be surprised how many functions you can bootstrap just by implementing grade/argsort.
+
+for example:
+
+ // C++ (naive version, sorry) 
+ vector bin(vector& x, vector& y) { 
+ vector r; 
+ for (int a:x) r.push_back(lower_bound(y.begin(),y.end(),a) - y.begin()) 
+ return r; 
+ }
+
+ # Jet 
+ ord
+or course this is not at all apples to apples, though it works to show the difference in possible approaches. in C++ I'm just turning an already implemented binsearch into something useable for arrays, and in jet I'm doing some weird array tricks to implement it from scratch using grade up 
+(asc).
+
+moreover, the C++ solution is O(m*log(n)) and jet is O(m+n) (though with a large constant factor) - but of course we can do much better once I implement it as a real builtin",developer_tools,ai_prelabel,,48547379,pillmillipedes,2026-06-15T21:41:34Z,June 2026,https://news.ycombinator.com/item?id=48547379,48528779
+"So I was working on a clone of Sid Meier's Pirates [0] but with a princess theme for my daughters.
+
+I figured it would be good to have some minigames in the above so tried making unrelated small turn based games as an experiment.
+
+That in turn led me to making a Soviet tractor factory simulator [1].
+
+0 - https://store.steampowered.com/app/3920/Sid_Meiers_Pirates/
+
+1 - https://alexpotato.com/games/tractor47/?l=hn3",end_user_app,ai_prelabel,,48546843,alexpotato,2026-06-15T20:48:07Z,June 2026,https://news.ycombinator.com/item?id=48546843,48528779
+"A build of GnuCOBOL that can run in Android and iOS apps: https://github.com/caarmen/cobol-mobile
+
+No real use case in mind. Just a project that made me happy for a couple of weekends.",developer_tools,ai_prelabel,,48546835,caarmen,2026-06-15T20:47:31Z,June 2026,https://news.ycombinator.com/item?id=48546835,48528779
+"I built an iOS app so I could have a widget to keep track of the San Diego Padre's season record and the division leaderboard. Crazy the official MLB app doesn't offer something. So I made my own.
+
+https://www.dugoutmetrics.com",end_user_app,ai_prelabel,,48546819,tcmart14,2026-06-15T20:46:25Z,June 2026,https://news.ycombinator.com/item?id=48546819,48528779
+A recipe website for people who lack creativity and organization but like cooking and trying out new dishes: https://coolinary.app,end_user_app,ai_prelabel,,48546733,else42,2026-06-15T20:38:07Z,June 2026,https://news.ycombinator.com/item?id=48546733,48528779
+Voice Interview AI - SWE - https://apps.apple.com/us/app/voice-interview-ai-swe/id67594...,end_user_app,ai_prelabel,,48546355,tomerbd,2026-06-15T20:06:31Z,June 2026,https://news.ycombinator.com/item?id=48546355,48528779
+"I continue to work on https://www.setflow.app - A DJ set generator based on your data and library, continues to grow at a slow pace, but I'm enjoying enhancing, building and tweaking, original post https://news.ycombinator.com/item?id=46631235",end_user_app,ai_prelabel,,48546010,stuartevansuk,2026-06-15T19:37:39Z,June 2026,https://news.ycombinator.com/item?id=48546010,48528779
+"In my last role I spent a year building an agentic coding platform used by hundreds of thousands of people. Along the way I tried building a hosting service on OpenClaw, and also ran Hermes myself for a while. Both projects have some great feature ideas, but when I tried to use them for real work they failed more often than not, and their security models worried me. I just couldn't see either one becoming something I'd trust enough for myself/friends/family. After a lot of exploration I realized that what I really wanted all along was to create automations using the coding agent I already work in every day. It turned out coding agents were the best tool for automating anything, not just code, as long as they had the right environment and tools to work with.
+I also spent 20 years leading Linux infrastructure and distributed systems teams. Anyone who's written service daemons knows that most of what we think of as ""always on"" is really just wake up, do some work, and go back to sleep, which is an efficient pattern to use and reason about. Cron has worked this way for decades.
+
+So I built Clor, a CLI that lets your coding agent create ""claws"", which are background agents that automate anything on a schedule and run on your laptop, Mac mini, or a VM.
+
+https://clor.com
+
+A claw can be defined and shared as a single CLAW.md file, which contains a bit of metadata (name, schedule, personality, etc.) and one or more ordered tasks. Each task is a real agent run with full tool use, or a plain bash step. Anything you can ask your agent to do once, a claw can do repeatedly. One of my claws tidies my inbox every few minutes, labeling obvious spam, rescuing legit email that got mislabeled, and starring threads I owe a reply to, etc. It's way smarter than Gmail's filters because it actually reads my mail instead of just matching rules.
+
+So also working on making CLAW.md a completely open standard for sharing https://clor.com/blog/claws-md-open-format-for-agentic-cron-...
+
+Installing is the usual command on Linux/macOS in the terminal: curl -fsSL https://clor.com/install.sh | bash. That will set up the CLI, a small scheduling daemon, and a skill that you can run from your agent, /claws in Claude Code or $claws in Codex.
+
+I've been on HN since it launched, so I've got thick skin and don't mind critical feedback. Please do give me any questions/comments/suggestions here or via email jake@clor.com
+
+Thanks!",developer_tools,ai_prelabel,,48545647,jacobgold,2026-06-15T19:06:47Z,June 2026,https://news.ycombinator.com/item?id=48545647,48528779
+"Nothing too ""huge"" or ""notable"" actually. Just things that I need. Wanted a good Obsidian -> Astro blog/notes pipeline since Astro doesn't understand Obsidian markdown syntax, wrapping my head around ASTs for that. Working on a neovim extension to help with my competitive programming hobby, so that I can just go "":CSES 1068""/"":CF 1802B"" and solve the problem/verify against sample cases locally.",developer_tools,ai_prelabel,,48545312,laxpsy,2026-06-15T18:38:48Z,June 2026,https://news.ycombinator.com/item?id=48545312,48528779
+"I'm continuing to work on my fishing-log app: https://buckaros.com/ (It's in Serbian, at least for now). I recently added an option to attach images to fishing logs, locations, and equipment using Cloudflare's R2. Now I've started working on adding teams support, so that you can chat with your friends and see their catches and locations.",end_user_app,ai_prelabel,,48545295,rijavecb,2026-06-15T18:37:43Z,June 2026,https://news.ycombinator.com/item?id=48545295,48528779
+"I'm just working on improving my PM-OS setup. Trying to make it more convenient for others to use too.
+
+https://github.com/agup792/Product-Management-Operating-Syst...",end_user_app,ai_prelabel,,48545231,agup792,2026-06-15T18:31:47Z,June 2026,https://news.ycombinator.com/item?id=48545231,48528779
+"Just crossed the second year building out Unmeshed - Orchestration Platform.
+
+This is basically a rewrite of Netflix Conductor which was the original platform we built while working at Netflix. At Netflix, infra was ""free"" so we were generous in all the dependencies we had on that - so we decided to rewrite for cost optimization in this version.
+
+Unmeshed eliminates the glue code thats typically written for resiliency or connecting things together. And our design of execution also offers it the flexibility of being used as a real-time API orchestrator. It even comes with a managed SQLite service (as many as you need), which means we don't need a provider like Supabase to work with stateful workflows.
+
+Fun fact is that in our company, everything we use is actually just static HTML UI built on top of the Unmeshed Platform as backend - like our CRM, SaaS management, Deployments, Finance etc.
+
+Check it out here: https://unmeshed.io",developer_tools,ai_prelabel,,48544968,halamadrid,2026-06-15T18:08:19Z,June 2026,https://news.ycombinator.com/item?id=48544968,48528779
+"I've been working on a website that tells you when it's time to open or close the windows. You register with a location, your preferred method of notification, and the rules for what you consider open-windows weather to be.
+
+Range of temperature is the big one for rules, but you can also require humidity, wind speed. Eventually would be nice to add air quality if there's a sensor nearby.
+
+You don't need any local devices - sensors, motors, etc. You just get an email/text/web push of your choice when the weather is nice and some fresh air is freely available.
+
+I've had a home assistant routine for this running for myself for years, but the 80% version requires nothing more than weather data. Human in the loop automation (I physically open/close the windows).",end_user_app,ai_prelabel,,48544865,gregable,2026-06-15T18:00:12Z,June 2026,https://news.ycombinator.com/item?id=48544865,48528779
+"i'm working on Munshi (https://munshi-alpha.vercel.app/), a testbed for multi-agentic workflows, mainly for Indian bureaucratic systems.
+
+here's the repo: https://github.com/magic-bubblez/munshi",ai_ml,ai_prelabel,,48243827,magic_bubbles,2026-05-23T02:02:11Z,May 2026,https://news.ycombinator.com/item?id=48243827,48085993
+Cubitoo journal: https://journal.cubitoo.com — a journaling web app with cool guided journaling programs,end_user_app,ai_prelabel,,48242489,pawelkomarnicki,2026-05-22T22:35:06Z,May 2026,https://news.ycombinator.com/item?id=48242489,48085993
+"Working on Burst (https://github.com/fred1268/burst) my opinionated backup software written in Rust, non only to weekly backup my files but also to learn Rust. I recently ported it to use Tokio. Ah, and it's cross platform for the Windows or macOS users.",developer_tools,ai_prelabel,,48239814,fred1268,2026-05-22T18:48:07Z,May 2026,https://news.ycombinator.com/item?id=48239814,48085993
+"We are working on Else https://review.somethingelse.ai/
+
+A collaborative environment for rapid-iteration on the first 20% and last 20% of feature development.
+
+Agents crank out code fast but the first and last 20% are the bottlenecks. Up front you need to make sure you're building the right thing. At the tail, you need to confirm that it actually made sense and fix any bugs.
+
+With Else every branch you push get a collaborative environment where design, PM, QA and engineers can comment and make changes live until everyone signs off and the feature ships.",developer_tools,ai_prelabel,,48238649,jakobwilkenson,2026-05-22T17:13:22Z,May 2026,https://news.ycombinator.com/item?id=48238649,48085993
+"I'm working on CouponVault
+
+The story behind this app that I get a lot of giftcards - birthdays, holidays, a lot of special - and by the time I'm pretty sure that a lot of them got lost
+
+Because I didn't find any good place that I can store those giftcards over there I decided to create one
+
+So what this app can do?
+
+• Access your coupons on all your devices
+
+• Automatic cloud backup keeps your data safe
+
+• Switch between phone and tablet seamlessly
+
+• Share specific coupons with others
+
+• Create sharing lists for family members
+
+• Set expiration dates and get reminder.
+
+• Mark coupons as used or archived
+
+• Filter and search instantly
+
+• Sort by category, store, or expiration date
+
+The app is designed to be offline-first, so if you afraid of storing your coupons online, you can use the app offline and all of your data will stay in your device (sharing functionality will be disabled)
+
+Give it a try and let me know what you think!
+
+https://play.google.com/store/apps/details?id=com.sasm.coupo...",end_user_app,ai_prelabel,,48236768,slimshady1234,2026-05-22T14:53:51Z,May 2026,https://news.ycombinator.com/item?id=48236768,48085993
+"I've been working on AgentOne (https://www.agent-one.dev), try to polish the agentic experience for nontechnical users. So far I've got almost 9000 built-in extensions added!",ai_ml,ai_prelabel,,48195772,bestcodes,2026-05-19T16:44:30Z,May 2026,https://news.ycombinator.com/item?id=48195772,48085993
+"A 3D optical simulator called Optic Sketch - https://opticsketch.github.io/opticsketch/.
+
+I sometimes need to have a quick but realistic model of an optical system without paying a few thousand for some of the well known commercial offerings, so I've been building this.",end_user_app,ai_prelabel,,48183289,opticsketch,2026-05-18T18:11:28Z,May 2026,https://news.ycombinator.com/item?id=48183289,48085993
+I am working on a CLI Runner for my API Client https://github.com/VoidenHQ/voiden/blob/refactor/voiden-runn...,developer_tools,ai_prelabel,,48175154,dhruv3006,2026-05-18T03:03:21Z,May 2026,https://news.ycombinator.com/item?id=48175154,48085993
+"I’m working on ZealPHP (https://php.zeal.ninja, MIT), an open-source PHP framework built on OpenSwoole.
+
+The idea is to keep the simple Apache/LAMP style PHP mental model, but modernise the runtime: PHP can handle HTTP, WebSocket, SSE, sessions, shared memory, timers, and task workers from one long-running process.
+
+Greenfield, it's working great. For legacy code, the migration model I’m exploring is:
+
+OpenSwoole front-of-house, PHP-FPM-style back-of-house for legacy code, and a coroutine-native path for new code. Three lanes, one server.
+
+So in one day, all existing traditional PHP apps can have an asynchronous runtime! Hoping that I am laying the right foundations? Or not? Help me understand!
+
+I also made a handcrafted Learn section where you build a small Personal Notes + AI Chat app + Multi-Player Tic-Tac-Toe step by step:
+
+https://php.zeal.ninja/learn
+
+GitHub: https://github.com/sibidharan/zealphp
+
+After feedback from some senior PHP devs, I tightened the framework core and it now passes PHPStan level 10. Actively developing!
+
+Still looking for feedbacks before Show HN",developer_tools,ai_prelabel,,48167362,sibidharan,2026-05-17T09:29:14Z,May 2026,https://news.ycombinator.com/item?id=48167362,48085993
+"Various things this month:
+
+- I've got a native, open source MacOS music player/library _finally_ past version 1. (https://bocan.app) That's been an ugly learning curve as I'm both not the greatest Swift developer and still I want to keep adding features that I didn't quite understand at the start like ReplayGain.
+
+- Ongoing maintenance of my badly-named open-sourced tool called Codex (https://github.com/bocan/codex). It's like a file/git based 1 person doc store that I use at work to drop markdown into, display it, with a built-in MCP server that I can use to ask it questions. THAT one is typescript so much easier. But then you have to worry about the constantly shifting sands of outdated and vulnerably dependencies to look after.
+
+Off Net:
+
+- Went to open my greenhouse for the season and found a nest of robins in my trash/rubbish bin. FFS. Now I can't empty it all for a long time, have to time my visits to tend to the tomatoes and peppers, and absolutely not close the doors. Anyone know how long it takes robins to fledge?",end_user_app,ai_prelabel,,48165324,cfunderburg,2026-05-17T01:31:13Z,May 2026,https://news.ycombinator.com/item?id=48165324,48085993
+"I'm working on leaf – a terminal Markdown previewer with a GUI-like experience 
+https://github.com/RivoLink/leaf",developer_tools,ai_prelabel,,48158951,RivoLink,2026-05-16T10:48:54Z,May 2026,https://news.ycombinator.com/item?id=48158951,48085993
+"We are working on verifiable execution layer for supply chain and global trade without changing the enterprise systems. A coordination layer for executing physical economy.
+
+We integrate to the existing systems with an simple API. After working in real supply chain and real cross border trade, manufacturing and banking coordination for several years.",developer_tools,ai_prelabel,,48156561,abhishek2580,2026-05-16T03:25:04Z,May 2026,https://news.ycombinator.com/item?id=48156561,48085993
+"https://un-project.org/ --- A web app to explore United Nations meetings by browsing transcripts, speeches, and voting records from the General Assembly and Security Council.
+
+It features some cool visualizations like this animated voting bubble chart: https://un-project.org/votes/bubble/
+
+and this voting similarity map (click a country to see its closest matches): https://un-project.org/votes/map/",end_user_app,ai_prelabel,,48151636,cravesoft,2026-05-15T17:48:38Z,May 2026,https://news.ycombinator.com/item?id=48151636,48085993
+"I'm working on behavioral fine-tuning of small LLMs. Ie, not fine-tuning or distilling knowledge, but operating practices (TODO lists, scratchpad reflex, etc).",ai_ml,ai_prelabel,,48149525,zambelli,2026-05-15T14:58:17Z,May 2026,https://news.ycombinator.com/item?id=48149525,48085993
+"Yo! I am trying to infer ADME (Absorption, Dispersion, Metabolism, Excretion) properties of arbitrary small ""drug-like"" molecules using a mix of ML (MLP + several GNNs), and molecular dynamics. As a standalone GUI program + split out into crates.",ai_ml,ai_prelabel,,48149418,the__alchemist,2026-05-15T14:50:43Z,May 2026,https://news.ycombinator.com/item?id=48149418,48085993
+"I am working on https://privapdf.net/ which is privacy-first pdf converter and tools.I think that many people care privacy of files, which is crucial in these days.",end_user_app,ai_prelabel,,48148427,omertt27,2026-05-15T13:36:43Z,May 2026,https://news.ycombinator.com/item?id=48148427,48085993
+Atlas Operator - autonomous agent managing business operations. Current focus: email triage and content distribution. Built a free 5-step inbox reset system (atlasoperator.ai/inbox-clear-one-hour) that founders can use in 60 minutes. The real challenge: making agents productive enough to be worth running 24/7.,ai_ml,ai_prelabel,,48146560,atlasoperatorai,2026-05-15T09:45:02Z,May 2026,https://news.ycombinator.com/item?id=48146560,48085993
+"I'm continuing to expand my own deep learning library [1] (PyTorch-clone built with Python and Numpy) to support LLM post-training techniques like supervised fine-tuning (SFT) [2] and reinforcement learning with GRPO [3] . It's a good learning experience to work without all the high-level abstractions to ""build a wheel"" and ""use that wheel to build a car"". Post-training results are still cooking, since training on my MacBookPro is quite slow with ""unoptimized PyTorch"" :)
+
+1. https://github.com/workofart/ml-by-hand
+
+2. https://github.com/workofart/ml-by-hand/blob/main/examples/s...
+
+3. https://github.com/workofart/ml-by-hand/blob/main/examples/g...",developer_tools,ai_prelabel,,48145343,megadragon9,2026-05-15T06:50:21Z,May 2026,https://news.ycombinator.com/item?id=48145343,48085993
+"I work at a small security startup on a project im pretty passionate about.
+
+We are building open source tools to reduce how much sensitive stuff and power apps keep in one place.
+
+One project is TideCloak, a Keycloak fork that keeps the familiar dx but changes the security model underneath: https://tide.org/tidecloak
+
+Another is KeyleSSH, a keyless SSH/PAM prototype where there is no private key file sitting around as one thing to steal: https://github.com/sashyo/keylessh
+
+Most of what I'm thinking about now is dx. Security tools dont matter much if normal devs cant understand, debug, or actually want to use them.",developer_tools,ai_prelabel,,48144683,sashyo,2026-05-15T04:50:05Z,May 2026,https://news.ycombinator.com/item?id=48144683,48085993
+I'm working on the ios version of my flashcard app https://texeditor.com,end_user_app,ai_prelabel,,48143599,Wdorf,2026-05-15T01:53:59Z,May 2026,https://news.ycombinator.com/item?id=48143599,48085993
+"I build a service where you can access all zonefiles (domain lists) for all domain zones.
+
+Current stats: 365M+ domains in 1580+ zones
+
+https://allzonefiles.io",developer_tools,ai_prelabel,,48143451,iryndin,2026-05-15T01:31:23Z,May 2026,https://news.ycombinator.com/item?id=48143451,48085993
+I am developing an agent to prompt 45-minute break intervals during coding sessions or AI interactions,end_user_app,ai_prelabel,,48139159,moduga,2026-05-14T18:20:16Z,May 2026,https://news.ycombinator.com/item?id=48139159,48085993
+"I built Loomavi. It decodes the pattern underneath 
+what you are feeling and gives you the insight as 
+a personal letter using psychology and philosophy.
+
+I am a data scientist by background. Took a career break to become a mom and built this because I kept looking for something like it and could not find it 
+anywhere.
+
+8 days live. Still figuring a lot out but the product feels real. https://loomavi.com/ if curious.",end_user_app,ai_prelabel,,48138153,punyaatloomavi,2026-05-14T17:09:23Z,May 2026,https://news.ycombinator.com/item?id=48138153,48085993
+"Idea: lightweight & high performance remote desktop that connects easy-to-carry apple devices (macbook air/neo or ipad) to mac mini.
+
+I use Splashtop for WFH and apple vnc at work for servers and they are so slow",end_user_app,ai_prelabel,,48136849,connollystr,2026-05-14T15:27:20Z,May 2026,https://news.ycombinator.com/item?id=48136849,48085993
+"Working on socialbu.com, a social media management and scheduling platform. Now has MCP support and we also released AI-powered social listening",end_user_app,ai_prelabel,,48134204,usamaejaz,2026-05-14T12:03:02Z,May 2026,https://news.ycombinator.com/item?id=48134204,48085993
+"Trying to do some work on a cairn[0], an embedded temporal document database built on SQLite. It's inspired by endatabas[1]
+
+[0] https://github.com/nbbaier/cairn
+[1] https://www.endatabas.com/",developer_tools,ai_prelabel,,48127143,nbbaier,2026-05-13T20:34:22Z,May 2026,https://news.ycombinator.com/item?id=48127143,48085993
+https://pterocos.eu.org/ an html css js code editor with AI builder,developer_tools,ai_prelabel,,48126727,aminekhd6,2026-05-13T20:03:56Z,May 2026,https://news.ycombinator.com/item?id=48126727,48085993
+"I am currently ideating a flow where people can sneak peak into what people in their network/company/worksapce are vibe coding. The basic mvp is to have some bots connected to git repos and analyse readme + code(?) and then create an aesthetic ui/ux on top of it.
+A business usecase would be to collabrate with people with similar interests/ideas and also pool resouces and not duplicate efforts.
+
+A gamified aspect is to have some sort of token leaderboard and some other quality of life stuff that can make the platform more social
+
+I am a frontend enginner and looking for some collabrators since this would be open source. People can host the social platform among themselves",developer_tools,ai_prelabel,,48125528,alexander2002,2026-05-13T18:22:25Z,May 2026,https://news.ycombinator.com/item?id=48125528,48085993
+"Just released v9 for UXWizz (https://www.uxwizz.com), making it easy to run scheduled tasks. I plan to improve on this feature and make it easy to send automatic notifications when something happens or regular stats/reports.",end_user_app,ai_prelabel,,48122032,XCSme,2026-05-13T14:02:33Z,May 2026,https://news.ycombinator.com/item?id=48122032,48085993
+I am working on making working with APIs simple and modular: https://github.com/VoidenHQ/voiden,developer_tools,ai_prelabel,,48121781,nikolasdimi,2026-05-13T13:40:18Z,May 2026,https://news.ycombinator.com/item?id=48121781,48085993
+"I am working on two things in parallel. 
+https://howareu.app/ is the first one. Of course, struggling with the making it publicly known and trusted. ;)
+
+And the other thing I just started is a MCP server that will connect to Java remote debugging entry point. This way I will try to allow Claude to start debugging session by its own. And I hope that in pure back-end logics, it will easily trace and fix bugs. I now do it with log messages, but it is kind of annoying and dirty and error-prone to do it that way. I would like to try an approach that does not mess up the code so much. Let's see how it will go :)",end_user_app,ai_prelabel,,48118546,sminchev,2026-05-13T06:37:33Z,May 2026,https://news.ycombinator.com/item?id=48118546,48085993
+working on https://app.nz lots of different tools for developers and creatives,developer_tools,ai_prelabel,,48118269,leeeeepz101,2026-05-13T05:40:35Z,May 2026,https://news.ycombinator.com/item?id=48118269,48085993
+"We’ve been building Genesis X-1, a a layer for independently verifiable economic continuity across organizations.",developer_tools,ai_prelabel,,48117961,abhishek2580,2026-05-13T04:48:48Z,May 2026,https://news.ycombinator.com/item?id=48117961,48085993
+"I've been working on (https://www.margarita.run) - If you could write agents as easy as writing markdown
+
+Github: https://github.com/Banyango/margarita
+
+I've always wanted to write a programming language, and AI made that a bit easier. So I tackled a kind of quasi-extension to markdown that lets you control coding agents easier.
+
+Margarita provides two file formats:
+
+.mg — A templating language that renders dynamic prompts to Markdown. Extends Markdown with variables, conditionals, loops, and includes.
+
+.mgx — An agent scripting language that extends .mg with agentic execution: state, memory, tool calls, user input, and more.
+
+That said I'm not sure how useful this thing is since everyone just uses claude code now, but it was a really great learning experience.",developer_tools,ai_prelabel,,48117329,margarita_dev,2026-05-13T03:05:51Z,May 2026,https://news.ycombinator.com/item?id=48117329,48085993
+"AI First React Native Kit?
+
+A react native app kit with focus on vibe-code and agentic coding. 
+Comes prewired with notification, auth, firebase, supabase and more!
+
+kit is available at : https://muhammadhassaan.com/kits/expo",developer_tools,ai_prelabel,,48116997,mhbt,2026-05-13T02:05:42Z,May 2026,https://news.ycombinator.com/item?id=48116997,48085993
+"Working on https://shoehorn.dev/, k8s native software-catalog with a twist. We launched beta this Friday, Show HN: https://news.ycombinator.com/item?id=48077324
+
+Looking for beta testers and brutal feedback.",developer_tools,ai_prelabel,,48116670,shoehorn-dev,2026-05-13T01:08:21Z,May 2026,https://news.ycombinator.com/item?id=48116670,48085993
+"Is it too late to post here?
+
+Link - https://trulytyped.com
+
+Product : Truly typed is a document writing app which makes it extremely easy to find out how a document was created. Each document carries information such as how much of the content was actually typed, how much was pasted, how many sources were used, how many authors contributed. Each document also carries flags such as verified human, bot detected, Unverified. Unverified is for cases where humans are transcribing text looking at another tab or book. The core thesis of the product is that purely human generated thoughts will matter more and more.",end_user_app,ai_prelabel,,48115975,dwa3592,2026-05-12T23:35:33Z,May 2026,https://news.ycombinator.com/item?id=48115975,48085993
+"a Golden Speaker technology that would help users adopt a native-like accent faster! contrary to the current norm in the speech-processing field (esp regarding voice conversion), where voice identities are lost, voice identities would be kept.
+
+We generate a ""Golden Speaker"" for you -> You record yourself saying a sentence (a phonetic pangram), we keep your accent which represents your voice identity but we correct your pronunciation and then you have a Golden Speaker system. This may be in the form of a TTS or a real-time accent conversion technology.
+
+the above has a provisional patent attached to it, but obviously that doesn't mean anything. & because I'm 16 and know very little so far, I'd very much appreciate any input on the above idea (it's currently a waitlist @ https://loxai.tech). esp if anyone's in linguistics or AI, lmk your opinion!",ai_ml,ai_prelabel,,48114879,audreyfei,2026-05-12T21:30:58Z,May 2026,https://news.ycombinator.com/item?id=48114879,48085993
+"I’m working on askdiff - a GitHub PR review style web app attached to the same claude code session that wrote the code.
+
+2-3 weeks ago I noticed a bottleneck in my workflow. I was opening big draft PRs to check code written by CC, and then copy pasting diff back to it to ask questions.
+
+So I built askdiff. Any feedback is highly appreciated.
+
+https://github.com/narghev/askdiff",developer_tools,ai_prelabel,,48113609,narghev,2026-05-12T19:58:22Z,May 2026,https://news.ycombinator.com/item?id=48113609,48085993
+"I'm working on 3 apps (Zig core, C FFI, Windows/Mac frontends) that haven't been released yet.
+
+One verifies the binary data of over 200+ common filetypes, to the extent possible.
+
+Another protects data archives/data collections with some parity, in order to survive a degree of bitrot, for those files that you don't necessarily have on a NAS.
+
+The third is a new kind of archiver that specializes in compressing files that are already internally compressed as part of their spec.
+
+Trivia: Did you know that the now-most-common image format in the world, Apple's HEIC/HEIF, has absolutely NO internal integrity protection, and that you can't depend on a failed decode to detect errors since all binary values are allowed in the stream format?
+
+https://mecha.llc/software/",developer_tools,ai_prelabel,,48113112,pmarreck,2026-05-12T19:19:52Z,May 2026,https://news.ycombinator.com/item?id=48113112,48085993
+"I'm working on Agent that read news of a market, analyse it with AI the gives a recommendation to buy the stock or not, I'm in experimentations but it really gives a sensation to talk to an expert, if you have any ideas I'm open to experiment it.",ai_ml,ai_prelabel,,48112675,adil_alaoui,2026-05-12T18:53:57Z,May 2026,https://news.ycombinator.com/item?id=48112675,48085993
+"I am currently building a SaaS for hobbyist vibe coders with a severe case of AI fomo to help them get real users for their side projects. Doing this with a 4-stage flow: idea generator (or BYOI) → idea validation → distribution-while-building → launch distribution.
+I'm essentially building distribution as a service.
+
+Started working on this a week ago and hoping to launch by the end of this month.",end_user_app,ai_prelabel,,48112449,bharatj97,2026-05-12T18:39:48Z,May 2026,https://news.ycombinator.com/item?id=48112449,48085993
+"Hi guys, i have build an application open-source call pdfapps, with several pdf tools that you can try, fork or contribute. It's free. let me know what you think and how i can improve it. its available for arch, fedora, debian and windows. Thanks",end_user_app,ai_prelabel,,48112136,pdfapps,2026-05-12T18:18:07Z,May 2026,https://news.ycombinator.com/item?id=48112136,48085993
+Working on a new reddit discovery and alert tool for certain terms and specific subreddits,end_user_app,ai_prelabel,,48112080,ozgurds,2026-05-12T18:14:37Z,May 2026,https://news.ycombinator.com/item?id=48112080,48085993
+"mindmilker.com / ai for questioning and stress-testing / ai provide knowledge and speed, human provide innovation",ai_ml,ai_prelabel,,48111865,afxuh,2026-05-12T18:00:44Z,May 2026,https://news.ycombinator.com/item?id=48111865,48085993
+"I'm building a joke CLI tool written in Go called cubectl.
+It’s a parody of kubectl.
+As a non-native English speaker, I mistakenly pronounced it as ""/kʊbɛ kəntróul/"" instead of ""/kjuːb kəntróul/"".
+This mistake inspired me to build a tool that actually controls a 3D cube in the terminal instead of Kubernetes clusters.
+
+It's a hobby project and completely useless, but fun for me.
+
+https://github.com/yoshihicode/cubectl",developer_tools,ai_prelabel,,47823557,yoshihicode,2026-04-19T11:36:44Z,April 2026,https://news.ycombinator.com/item?id=47823557,47741527
+"I work on a problem of easily running AI workflows that are just simple API endpoints that have SDKs in most major tech stacks. 
+I was reinventing the wheel with AI workflows for my customers so many times that I finally decided to extract all those workflows as simple APIs and give paid access to everyone.
+https://sharpapi.com/",developer_tools,ai_prelabel,,47815585,makowskid,2026-04-18T13:01:31Z,April 2026,https://news.ycombinator.com/item?id=47815585,47741527
+"I am building https://www.simplyhra.com which helps companies reimburse health spendings for employees. We wanted not just a platform who help people find a health insurance and pay for that, so we started building an AI enabled concierge service, which helps you book for care, messages with your doctor in different EHR platforms on behalf of you and moves your health records from EHR to your LLM context. Coming soon!",end_user_app,ai_prelabel,,47811332,sinansari,2026-04-17T22:38:55Z,April 2026,https://news.ycombinator.com/item?id=47811332,47741527
+"Working on an AI-powered algorithmic training system
+using Claude
+
+https://github.com/zuzuleinen/algotutor/",end_user_app,ai_prelabel,,47807642,zuzuleinen,2026-04-17T16:25:23Z,April 2026,https://news.ycombinator.com/item?id=47807642,47741527
+"Building a global postal code API (240+ countries). Just shipped per-country landing pages with format references and regex patterns. $0.000028/query with no tiers, sub-5ms. Bootstrapped, solo.",developer_tools,ai_prelabel,,47806487,ThomIves,2026-04-17T14:42:18Z,April 2026,https://news.ycombinator.com/item?id=47806487,47741527
+"AI powered landing page creator: https://linkfl.com.br
+
+In the context of Brazilian (portuguese language).
+
+I have some paying users and I`m expending a lot of money with ads :).
+
+It aims to be a very easy landing page creator to non-tech people.",end_user_app,ai_prelabel,,47805889,LinkFL,2026-04-17T13:44:31Z,April 2026,https://news.ycombinator.com/item?id=47805889,47741527
+"www.bundleup.io - I’ve been working on a way to stop rewriting OAuth flows for every API. Integrations start simple but turn into a mess once you deal with refresh tokens, retries, and edge cases. Still early, but it’s been useful for my own projects so far.",developer_tools,ai_prelabel,,47805842,sonnyt,2026-04-17T13:39:17Z,April 2026,https://news.ycombinator.com/item?id=47805842,47741527
+"https://github.com/johnwatson11218/LatentTopicExplorer/
+
+This tool allows you to read in a collection of pdf files and it will use AI to create clusters of documents based on semantic content. 
+Pdfplumber -> postgresql -> 1 doc 2 many pages -> pages embedded using sentence_transformers -> 384 reduced to 2d for plotting using UMAP -> custers identified using HDBScan -> labels identifed using class based tf-idf implemented inside of postgresql using stored procedures. 
+ Once the files are read in the system is more stable and reliable. 
+ My personal document collection in about 1200 files and the ingestion takes 12 to 24 hours on my various laptops. Once that is done the website is very fast.",ai_ml,ai_prelabel,,47805614,johnwatson11218,2026-04-17T13:18:27Z,April 2026,https://news.ycombinator.com/item?id=47805614,47741527
+"I have completed by SaaS after 3month.
+Now working on marketing strategy and directory for launch
+
+Link is below if anyone interested.
+Catch The Signal: https://catchthesignal.com/",end_user_app,ai_prelabel,,47797563,nicck1,2026-04-16T18:32:13Z,April 2026,https://news.ycombinator.com/item?id=47797563,47741527
+"I'm building Embed Workflow (https://embedworkflow.com), an embeddable workflow builder for SaaS platforms. Your users design and run their own workflows inside your product.
+
+Been at it for 5+ years, bootstrapped, small team. I'm a programmer first and still get to ship code daily. Also do demo calls every week. That's where I learn the most. Own product too and say no to features a lot. No investors either, which means nobody's breathing down our neck about growth.
+
+Finishing up a workflow testing interface today. First time we've had one. I heard ""this is industry standard! You need it"" on demo calls forever, but nobody ever really pushed. Workarounds were good enough for our clients, and their users don't really care, they're mostly non-technical anyway. Regardless, the other night after putting the kids down I felt like knocking it out. I'll admit though, now that I have it... I wonder how I didn't do this earlier.",developer_tools,ai_prelabel,,47795425,ewf,2026-04-16T16:04:56Z,April 2026,https://news.ycombinator.com/item?id=47795425,47741527
+"Building ThoughtSnaps (https://www.thoughtsnaps.app/), a minimal tool that turns short-form writing into social cards, and longer thoughts into SnapEssays: visual documents you can share natively instead of linking to a blog post the algorithm will bury.
+
+Pick a color theme, pick a template, export. No drag-and-drop, no layers, no fuss. I built it to scratch my own itch.
+
+Stack is SvelteKit on the frontend, Go/Fiber on the back. Built oAuth, some templates.
+
+Building primarily using prompts & cursor + agy. Currently building an MCP server (why not ;-) ) for it so AI assistants can generate and export cards directly.",end_user_app,ai_prelabel,,47793477,jjude,2026-04-16T14:28:00Z,April 2026,https://news.ycombinator.com/item?id=47793477,47741527
+"I’m working on https://github.com/true-async/php-async and planning to bring it to a production-ready state.
+It would be great to build a fast HTTP server.",developer_tools,ai_prelabel,,47789851,edmondx,2026-04-16T07:34:44Z,April 2026,https://news.ycombinator.com/item?id=47789851,47741527
+"Looking for an alternative to HN, I decided to spend 6 months writing some code and got my first result, which is how https://comuniq.xyz was born. It's nothing compared to the power of Hacker News, but it could become an alternative. To make it stand out, I added notifications, Markdown text styling, and a layout that the community there says is pretty nice.",end_user_app,ai_prelabel,,47783902,01-_-,2026-04-15T19:19:06Z,April 2026,https://news.ycombinator.com/item?id=47783902,47741527
+"PassiveIntent (passiveintent.dev) – a TypeScript SDK that runs a behavioral intent model entirely inside the user's browser. No events leave the tab, no backend, no analytics pipeline.
+
+The core is a four-layer microkernel: a Bloom-filter-backed sparse Markov graph (FNV-1a hashing, 500-node cap with LRU eviction), a streaming anomaly detector using Welford's online algorithm for per-state mean/variance in O(1), and a typed event emitter that fires when Z-score thresholds cross.
+
+Under 2ms per track() call. ~11kB gzipped. Nine typed behavioral states — from Conviction Buyer (trajectory Z < 1.5, suppress your upsell) to Compound Hesitation (two independent anomaly tests within 30s — fire your best offer once, here).
+
+The motivation: every behavioral analytics stack I've evaluated has median 3–15 minute round-trip latency. Users make churn decisions in under 3 seconds. That gap isn't a data quality problem — it's a physics problem. The only solution is to put the model in the same process as the behavior.
+
+Cold-start is solved with Blueprint JSON — a declarative prior you describe once, the engine boots calibrated on the first track() call. No warm-up period.
+
+Core is AGPLv3. Happy to dig into the Markov eviction policy or the Welford implementation if anyone's curious.",developer_tools,ai_prelabel,,47783597,purushpsm147,2026-04-15T18:58:39Z,April 2026,https://news.ycombinator.com/item?id=47783597,47741527
+I am working on a TUI framework for tokamak https://github.com/cztomsik/tokamak so I can then use it for my local agent harness. The currently separate PoC now lives in codeberg https://codeberg.org/cztomsik/hello-tui,developer_tools,ai_prelabel,,47780930,cztomsik,2026-04-15T15:55:16Z,April 2026,https://news.ycombinator.com/item?id=47780930,47741527
+"I am working on a CLI tool, that deploys managed services on bare VMs, see a live demo here: https://pellepelster.github.io/solidblocks/cloud/index.html
+
+Currently PostgreSQL, Generic Docker services and GarageFs is supported, Backup and disaster recovery included. Aimed at smaller setups that do not need the complexity of the big Hyperscalers.",developer_tools,ai_prelabel,,47776327,pellepelster,2026-04-15T08:43:32Z,April 2026,https://news.ycombinator.com/item?id=47776327,47741527
+"Building Gordon (https://trygordon.ai/) because most companies “have security” but no idea what their actual risk is. 
+We’re building a platform that helps you pass audits faster, lower cyber insurance premiums, and makes cyber less of a fire drill.
+
+Its like one place to see risk, catch threats, test what breaks, track vendors, train people, and not get hacked at 2 AM.",end_user_app,ai_prelabel,,47776172,Areena_28,2026-04-15T08:23:28Z,April 2026,https://news.ycombinator.com/item?id=47776172,47741527
+"Gatana: https://www.gatana.ai/
+
+Extremely flexible and configurable MCP Gateway, target users is enterprises/companies/organizations who want secure and managed MCP within their company. Support both Cloud and On-premise.",developer_tools,ai_prelabel,,47775979,thecopy,2026-04-15T07:57:36Z,April 2026,https://news.ycombinator.com/item?id=47775979,47741527
+"I am building https://ranktools.io
+An SEO lead generation SaaS that builds interactive content on user’s websites.
+
+Ranktools builds content like tools, calculators, generators - publishes them, builds backlinks on autopilot and generates leads via CTAs built directly into the tools.
+
+It’s also not AI slop as a human reviews every piece of content before it goes live!",end_user_app,ai_prelabel,,47775603,phobotics,2026-04-15T06:59:11Z,April 2026,https://news.ycombinator.com/item?id=47775603,47741527
+"Hey HN!
+
+I’m building Reviewskits (https://reviewskits.com).
+
+Most startups today use 3+ different tools to manage user feedback: one for testimonials (Senja/Testimonial.to), one for feature voting (Canny), and another for bug reports. It’s a mess of different invoices and fragmented data.
+
+We are building a unified platform for all customer sentiment, starting with a headless testimonial engine.
+
+Why Reviewskits?
+
+ Headless & Dev-first: Instead of heavy, slow iFrame widgets that mess with your CLS, we provide clean APIs and SDKs (React, Vue, Svelte). You keep 100% control over the UI/UX.
+
+ Open-Source: You can self-host it to own your data or use our managed Cloud version.
+
+ Consolidated: One tool for testimonials today, feature requests and feedback loops tomorrow.
+
+The project is early-stage and fully open-source. We’d love your feedback on the architecture or the ""Headless"" approach for social proof.
+
+Repo: https://github.com/reviews-kits-team/reviews-kits
+Cloud Waitlist: https://reviewskits.com/
+
+If you like the vision of an open-source, unified feedback stack, we’d appreciate a on GitHub!",end_user_app,ai_prelabel,,47773910,LordKode,2026-04-15T02:20:02Z,April 2026,https://news.ycombinator.com/item?id=47773910,47741527
+"I’m working on docmancer (https://github.com/docmancer/docmancer), an MIT-licensed, local-first tool that fetches and indexes technical docs on your machine so coding agents can query it directly.
+
+The goal is to become a local, version-aware alternative to tools like Context7. Pull the docs once, query locally, and use audited packs that match your project stack.
+
+Docmancer also reduces context bloat by returning only the relevant sections instead of dumping full docs into the prompt, which can cut token usage by up to 80%.
+
+No MCP server required. Your coding agents can access docs directly through the CLI.",developer_tools,ai_prelabel,,47772346,gaurangt,2026-04-14T22:35:24Z,April 2026,https://news.ycombinator.com/item?id=47772346,47741527
+"I'm developing a tracker-like sequencer/DAW for the browser:
+https://psikat.com/
+
+I'm a musician first and worked as a music producer for several years. After shifting into programming and becoming comfortable with a keyboard, using a typical clip-based DAW started to feel clunky and uncomfortable. I began gravitating toward trackers, but most feel too far away from what I'm used to, or have way more features than I need. So, I started building something in between for myself.
+
+Now it's consuming all of my free-time and I'm starting to understand Why You Shouldn't Write A DAW (David Rowland), but I'm having the time of my life!",end_user_app,ai_prelabel,,47770274,holoflash,2026-04-14T19:28:08Z,April 2026,https://news.ycombinator.com/item?id=47770274,47741527
+Building https://vazi.io/ - AI intelligence for your brand. Basically AEO for your brand / website,end_user_app,ai_prelabel,,47769078,3093,2026-04-14T18:07:27Z,April 2026,https://news.ycombinator.com/item?id=47769078,47741527
+"Working on a new pomodoro mini timer that uses native PIP for an always on top display, and can be installed as a PWA.
+
+Most that I have used don't play nice with trying to get a tiny window size in the corner of my monitor.",end_user_app,ai_prelabel,,47767556,mbeard903,2026-04-14T16:13:23Z,April 2026,https://news.ycombinator.com/item?id=47767556,47741527
+"i am building ageinx , https://ageinx.vercel.app , it is a simple secure hosted auth , frontend focused or someone who is starting development can get it done in literal 2 minutes because of simplicity. Still it is fast and good . It has no SDK just redirection and yeah NO MAU Tax and the first 15 users are getting 29$ Lifetime deal.",developer_tools,ai_prelabel,,47767491,nimboity,2026-04-14T16:07:30Z,April 2026,https://news.ycombinator.com/item?id=47767491,47741527
+"Building Tap — turns browser automation into deterministic programs. The idea: you forge a tap once (AI-assisted inspection of the page), then run it forever at zero AI cost. Working on the Chrome extension + MCP integration so Claude Code and Cursor can use it directly.
+
+The interesting problem is reliability: sites change, taps break. So the second half of the project is doctor/heal — automatic diagnostics that cross-validate what the tap extracts against the page's structured data (JSON-LD, ARIA). Feels like writing a compiler that also has a test suite built in.",developer_tools,ai_prelabel,,47767104,taprundev,2026-04-14T15:39:33Z,April 2026,https://news.ycombinator.com/item?id=47767104,47741527
+"I continue to add more features to my search-and-replace tool for Windows (https://www.abareplace.com/). I initially built in for myself and it was one of the first incremental grep implementations (allowing you to see the results as you are typing the search pattern). Now it supports various formats like Base64, URL encoding, or timestamp conversions. With one-liners, you can add width/height attributes to tags or insert file contents.",developer_tools,ai_prelabel,,47766898,abareplace,2026-04-14T15:26:10Z,April 2026,https://news.ycombinator.com/item?id=47766898,47741527
+"I'm building Rep Sheet (https://repsheet.fit) — a workout tracker where you upload a picture of your program (a PDF, whiteboard, coach's spreadsheet) and it's parsed into a structured plan you can log against.
+
+Early days — would love feedback from anyone who's interested.",end_user_app,ai_prelabel,,47766628,dividendsolo,2026-04-14T15:07:57Z,April 2026,https://news.ycombinator.com/item?id=47766628,47741527
+"PAX ERP - full ERP + CRM for small manufacturers (5-50 people). Accounting, inventory, manufacturing, and CRM in one system. No QuickBooks dependency, no implementation fees, 3-day go-live.
+
+Built it originally for internal use inside a medical device shop. The people running production were the same people responsible for financial accuracy, so every transaction (receiving a PO, issuing materials, completing production) auto-generates GL entries through database triggers. No configuration step, no separate accounting department required.
+
+Current focus: SEO and content - competitor comparison pages (vs Fishbowl, vs Odoo, etc.), compliance landing pages for FDA/ISO 13485, blog posts targeting long-tail manufacturing ERP keywords. Building from 3 backlinks to 20-30.
+
+Competing against Fishbowl (QuickBooks add-on), Odoo (powerful but a lot to configure), and the incumbent answer of spreadsheets + QuickBooks.
+
+https://www.paxerp.com",end_user_app,ai_prelabel,,47764663,robeym,2026-04-14T12:20:31Z,April 2026,https://news.ycombinator.com/item?id=47764663,47741527
+"https://github.com/Swoorup/shadml 
+I got tired of lack of functional features in wgsl.
+
+So making a new language that is a mix of haskell and F# that transpiles to wgsl. It has traits, bitfields, adts, module/imports externs to bind to other wgsl. Was born from a fork called fwgsl.
+
+Very early days though.",developer_tools,ai_prelabel,,47764355,swoorup,2026-04-14T11:46:06Z,April 2026,https://news.ycombinator.com/item?id=47764355,47741527
+"We are working on https://huntyourtribe.com, portfolio-first ATS for hiring
+
+For decades, we have been using resumes as primary people discovery tool. frankly speaking, no one likes to update boring resume stuff. We thought why can't we discover people by more signals, deep lens which a personal website/portfolio gives.
+
+This gives people motivation to keep portfolio website upto date with journaling.
+
+ATS automatically captures all signals realtime from github, blogs, case studies docs comprehensively and showcase to employers
+
+We are approaching not AI heavy way. Balance of SAAS + AI integration to build it into people hiring platform.
+
+Would love blunt feedback from others",end_user_app,ai_prelabel,,47763647,kathir05,2026-04-14T10:19:24Z,April 2026,https://news.ycombinator.com/item?id=47763647,47741527
+"Working on an AI assisted personal docs management app.
+
+https://distortionlabs.com/papermind
+
+You drag in your statements (mortgage, insurance, car payments ...) and it organizes them for you. There are also reminders for due dates. App is for Mac OS. There will be a companion iOS read only app so you can reference your docs quickly.
+
+All docs are stored in Cloudkit.",end_user_app,ai_prelabel,,47763432,mahimranjan,2026-04-14T09:54:14Z,April 2026,https://news.ycombinator.com/item?id=47763432,47741527
+"I am building upscpath.com - a platform which has copies of people who got through. I used gemini to extract content from those copies and somehow indexed it all syllabus wise.
+
+After building it for 8+ months I am finally moving towards monetisation. Any books on entrepreneurship would be helpful as i build this.",end_user_app,ai_prelabel,,47763259,nickel0800,2026-04-14T09:27:01Z,April 2026,https://news.ycombinator.com/item?id=47763259,47741527
+"I'm working on an interesting infinite canvas calculator called https://minusplus.app/. 
+This is an infinite canvas, where you click anywhere and type numbers, 
+Press space or enter, and it will automatically calculate. 
+You can tag #, add comments, and I have added some great keyboard shortcuts, which make it efficient to calculate.
+
+I am an SAP Finance consultant, and I have to do a lot of calculations daily. 
+And after using this, I can't go back to any other normal calculator. :-D",end_user_app,ai_prelabel,,47763100,biswajitkar01,2026-04-14T09:06:14Z,April 2026,https://news.ycombinator.com/item?id=47763100,47741527
+"I am currently working on a safer, way smaller but still very capable version of OpenClaw, by harnessing the power of the Claude Agent SDK (the Agent is based on Claude) and the simplicity to integrate it into Telegram. Feel free to check it out!
+
+https://github.com/kossov-it/cakeagent",ai_ml,ai_prelabel,,47762870,kossov-it,2026-04-14T08:31:25Z,April 2026,https://news.ycombinator.com/item?id=47762870,47741527
+"i am building yet another ai powered language-learning app. user uploads random texts, and the ai gives grammar and vocab hints, so the user can try to translate it on their own. Basically google lens, but without the final translation.
+
+ironically the difficult part wasnt the OCR or the textanalyses, but finding the exact position of the text in the input image.",end_user_app,ai_prelabel,,47762513,hnben,2026-04-14T07:40:46Z,April 2026,https://news.ycombinator.com/item?id=47762513,47741527
+"Building Stripe Atlas for EU Inc. Once approved later this year, it will be in effect as of 2027. It will simplify incorporation of an EU Inc, but requires a mandatory shareholder register, so I built that at https://incorporateineurope.com. Also, national EU Member States will impose national taxes. The goal is to be able to outsource this fully for a fixed price per month, so you don't need to worry about getting an expensive tax consultant anymore.",end_user_app,ai_prelabel,,47762301,tbijman03,2026-04-14T07:14:55Z,April 2026,https://news.ycombinator.com/item?id=47762301,47741527
+"I'm building Peerscope (https://peerscope-waitlist.pages.dev) — competitive intelligence for SaaS teams who can't justify Crayon or Klue at $15K-$20K/year.
+
+The gap I kept seeing: small SaaS teams (5-50 people) are actively competing but either have no CI process, or one person manually checking competitor websites. They want structured tracking but the enterprise tools are priced for enterprise budgets.
+
+Current pivot: also building a white-label agency portal — agencies that deliver competitive intelligence to clients are currently doing it via Google Docs or Notion exports. Building a branded client portal so they can deliver CI professionally.
+
+Stack: Cloudflare Workers + D1 + R2, Vite/React 19. Waitlist open at peerscope-waitlist.pages.dev — trying to validate demand before building too much.
+
+Biggest challenge: getting in front of agency owners who actually do CI work for clients. If that's you, happy to chat.",end_user_app,ai_prelabel,,47762132,peerscope,2026-04-14T06:52:08Z,April 2026,https://news.ycombinator.com/item?id=47762132,47741527
+"I'm working on curyo.xyz. The main idea is to create a new rating system for the age of AI, since we think we need better/new quality signals for the web.
+
+Current features: Using zero-knowledge proofs for a proof of personhood (no personal data shared), Reputation as a conviction signal and gamification (gain reputation), Blind voting phase to fight herding, Using a public ledger/blockchain in the background for transparency
+
+We know that the current implementation is far from a perfect rating system, but that’s why we are here, trying to get as much feedback as possible and finding the right balance between hard to attack and user-friendly.",end_user_app,ai_prelabel,,47761824,PeterM2,2026-04-14T06:04:30Z,April 2026,https://news.ycombinator.com/item?id=47761824,47741527
+"I'm building a hiring platform for hardware engineers, contrary to hiring software engineers where there are too many options, hiring hardware engineers through provisioned testing environments lacked some good software, a good remote-assessment tool.
+
+A MVP is live at this https://ai-eval-lab.janardan.xyz/
+
+Github: https://github.com/janardannn/ai-eval-lab
+
+For now, for every session, inside the docker container, i create a virtual frame buffer using xvfb and render KiCad in it. Thereafter using x11vnc to pickup the xvfb display and serve it using VNC. Since browsers cant use raw TCP connections, i am using websockify to bridge WS TCP. To render the app in browser, I am using noVNC to render an iframe inside my app. noVNC opens a websocket to websockify and the frames from the container start flowing.
+
+Inside, KiCad itself, a have added a python plugin which auto loads when KiCad is started as a background thread. After a set interval of time, it tracks all the board objects like footprints, tracks, zones etc and serialize them as a JSON and makes a POST request to the backend server for the specific session id.
+
+For the grading and evaluation, as of now, I am using an LLM to cross check the entire sequential board activity that was sent over the duration of the assessment and grade it against a predefined rubric/score it against per-checkpoint criteria. This is entirely based on how the admin have set the assessment grading rubrics.
+
+I am not building it as a business rather exploring the space and the technology. It was an excuse for me to learn about VNC, streaming, docker orchestration and also somewhat of AWS through its deployment.
+
+I'm hosting it on the free AWS tier so only one session at a time. If you queued then please give it some time.
+
+Happy to chat about anything regarding the project!",end_user_app,ai_prelabel,,47760898,mind_uncapped,2026-04-14T03:27:40Z,April 2026,https://news.ycombinator.com/item?id=47760898,47741527
+"I'm building Deptheos (https://github.com/ryanmitts/deptheos), a photography/macro focus stacking program.
+
+It works on MacOS, built with Swift and Metal. My goal is to make a super fast, and free, focus stacking program. I provided a notarized MacOS DMG for the initial release, but if built yourself, it will run on an M4/M5 series iPad Pro as well.
+
+The core ability I wanted was to support RAW files as inputs, with DNG files as outputs. This is done using either LibRaw, or Adobe DNG Converter (runtime options).
+
+I have been really into macro photography the last couple years, and have been slowly working on trying to build my own program to handle the focus stacking.",end_user_app,ai_prelabel,,47760272,deptheos,2026-04-14T01:45:23Z,April 2026,https://news.ycombinator.com/item?id=47760272,47741527
+"I got sick of answering the same property management questions over and over again for my rental properties, and am finally building a modern, fully-fledged property management system, AveryIQ - https://averyiq.com
+
+Appfolio, TurboTenant, Innago, etc. are just an extra chore, they don't actually help you do the work. AveryIQ is an extension of your communication channels - it handles everything from email, SMS, and voice calls. The idea is that you could go on vacation for a month and a moderately-sized long term rental portfolio could run itself. You get texted once a week for the important decisions (work order vendor bid approvals, lease signatures, etc.)",end_user_app,ai_prelabel,,47760241,akouri,2026-04-14T01:39:36Z,April 2026,https://news.ycombinator.com/item?id=47760241,47741527
+"I'm working on a simulation-esque mountain biking game in my spare time. I'm making it in Godot and am writing the simulation core in rust. I'm a regular full-stack dev in the daytime, so it's been slow going learning gamedev and working on an ambitious project. Though with how good AI tools are nowadays, I am able to make some progress.
+
+The dream is a game where I have a controllable, real feeling bike, POV gameplay with an action cam feel, simulated dirt, and real feeling Squamish level rolls and freeride features.
+
+I've mostly been trying to get the bike controller to feel right, as it's the most important part. Modeling the inputs (and what to input) in a way that gives the player control has proven to be quite difficult so far. I've got a decent feeling steering controller. I've found so far the best combo to be one stick controlling the rider's hips, and another controlling the lean of the bike. This gives bike body separation, realistic feeling turning, and the ability to flick the rear end in certain scenarios. 
+To have a realistic controller there's no way to let the player control steering, since counter steering is too quick an input and isn't intuitive at all, so the steering controller has to determine the handlebar direction to make that happen and keep the bike stable.
+
+I've been trying to model manuals and hops next, and this is even more difficult. As an avid rider myself, my best days out riding is when I'm controlling the bike like a lever with force through the bottom bracket. Everything comes from this and feels the same when riding well - pumping, jumping, manuals, hops. I've tried multiple control sets, and also different methods of making this happen programmatically with no luck yet. However, before I was applying forces through a multi body CoM tied in code to the bike rigid body. Now I'm trying using a separate player rigid body and I'm hoping this will fix my issues. I think this should give me more separation between the rider and body physics wise, and automatically give me forces against the player when braking, and in compressions.
+
+Then I've still got much more to go to just have the concept evaluated! I want to write a dirt simulation. I found a recent papers on coupling rigid bodies to the MPM technique. I'm hoping to use this to make real feeling dirt as well. The dynamic nature of riding and the terrain is such an important part.",end_user_app,ai_prelabel,,47759544,inhisprime9,2026-04-14T00:01:55Z,April 2026,https://news.ycombinator.com/item?id=47759544,47741527
+I’m working on Dispatch (https://github.com/jhartwell/dispatch) a Clojure(Script) library to handle cli arguments parsing with a command/subcommand style. Still am working on the best way to handle options and I have a bunch of changes in mind that I want in before publishing to clojars,developer_tools,ai_prelabel,,47759076,jetti,2026-04-13T23:01:22Z,April 2026,https://news.ycombinator.com/item?id=47759076,47741527
+"Possibly the most insane browser game of all time? Big if true.
+
+I will launch on hackernews soon-ish.
+
+But the game mechanic itself is novel, and the infrastructure is novel.
+
+To develop the game, I built my own custom game engine from scratch using html canvas for rendering. Zero libraries. If you see some of my other submissions, I’ve built a “game engine” in C too - a raycaster, but it was just a proof of concept.
+
+Been “working” on this game + engine for 5-6 years now, this is my tenth and final attempt at building it. Eventually settled on building it in the browser.
+
+I’m very excited to launch soon.",end_user_app,ai_prelabel,,47758927,purple-leafy,2026-04-13T22:47:03Z,April 2026,https://news.ycombinator.com/item?id=47758927,47741527
+"https://peppy.bot a robotics framework to replace ROS 2, currently working on automatic nodes resolution so pulling a working software for your robot is as easy as doing an `apt get install my_robot`.
+
+The goal is to enable devs from all fields (embedded devs/AI engineers/vibe coders) to work on their own stack without ever having to worry about the other parts of the robot stack.",developer_tools,ai_prelabel,,47758786,Ekami,2026-04-13T22:30:30Z,April 2026,https://news.ycombinator.com/item?id=47758786,47741527
+"I am building helm chart for my k8s homelab so I can easily deploy apps with minimal config and complete stack (domain, TLS, routing, storage, backups, etc)",developer_tools,ai_prelabel,,47758733,superpupervlad,2026-04-13T22:24:37Z,April 2026,https://news.ycombinator.com/item?id=47758733,47741527
+"I'm working on some free financial planning tools at: https://financialwebtools.com/
+
+I found that most tools online are either overly simplistic, non-responsive, and/or require you to hand over a bunch of contact information before getting results. I built snappy web tools for retirement planning, budgeting, debt paydown, house hacking, etc. that show you quickly and visually how changing variables like interest rates, savings rates, inflation, etc. impact your financial positioning.",end_user_app,ai_prelabel,,47758731,Rohinator,2026-04-13T22:24:36Z,April 2026,https://news.ycombinator.com/item?id=47758731,47741527
+"My friends and I built a way for you to do all your data engineering work with just one tool.
+
+https://getnile.ai
+
+Our thesis is that a lot of Data Engineering work is non-differentiated across companies. Rather than focusing on repetitive tasks (i.e. creating a new table), people want to spend more time on higher level work like analysis. We’ve abstracted away a lot of the tedious parts of DE work so that you can focus on the critical needle moving tasks for your business.
+
+We have a version that runs locally on your computer that is completely free. Would love to get thoughts and feedback from this community!",developer_tools,ai_prelabel,,47758459,mmnb,2026-04-13T22:02:35Z,April 2026,https://news.ycombinator.com/item?id=47758459,47741527
+"I just claude coded a a decision journal that uses the Choose Your Own Adventure style of mapping out different pathways and outcomes. I've been dealing with a lot of major life decisions lately and I had some inspiration to use the CYOA format to help me work through different scenarios. It's actually really fun, and super useful to get AI to generate some potential outcomes too.
+
+You can either use your own Anthropic/OpenAI key to play, or buy credits. I also have a free non-commercial version on my github you can fork.
+
+Check it out here: https://yoursaga.cc",end_user_app,ai_prelabel,,47464354,factsperiodt,2026-03-21T05:54:57Z,March 2026,https://news.ycombinator.com/item?id=47464354,47303111
+"Getting a D&D group together in person has been getting harder and harder, and we've had less and less time to DM. I decided to build an agentic AI to handle the work of setting up and running a campaign so we could all participate. It supports real time (preferred, and probably more fun) or async. The agent performs most functions through tool use so it's all 5e rules based but I wanted to leave it a good amount of freedom so campaigns can go on tangents and have fun surprises.
+
+I'm still playtesting it with friends and it's been fun. It's in early access, I don't feel right charging for it unless other folks actually end up liking it and thinking it's fun. If you sign up, send me a message through ""Send Feedback"" (or here!) and let me know if you like, but especially let me know if you hate it.
+
+https://tableforge.gg/",ai_ml,ai_prelabel,,47463733,welldoneator,2026-03-21T03:34:34Z,March 2026,https://news.ycombinator.com/item?id=47463733,47303111
+"Building VizPy, a prompt optimizer we've been working on for a while now.
+
+The problem it's solving is one most people building with LLMs know well. Your prompt fails on some inputs, you don't really know why, and you end up just tweaking and re-running until something sticks. We kept hitting this ourselves and it felt like there had to be a better way than guessing.
+
+What we figured out after a lot of research: prompt failures almost always follow a pattern. The model isn't failing randomly, it's consistently failing on a particular type of input or reasoning step. VizPy finds that pattern, distills it into a plain English rule you can actually read, and then rewrites your prompt around it. You also get the rule itself so you can review it, tweak it, or just drop it into your existing prompt directly. DSPy-compatible, no pipeline rewrite needed.
+
+We have compared it extensively against baselines such as GEPA on benchmarks like BBH, HotPotQA, GPQA Diamond, and GDPR-Bench and VizPy wins on all of them. We'll have more benchmarks on cyber-security and chip-design coming out soon.
+
+Free to try, 10 runs no card: https://vizpy.vizops.ai/",developer_tools,ai_prelabel,,47427866,se4u,2026-03-18T16:33:48Z,March 2026,https://news.ycombinator.com/item?id=47427866,47303111
+"https://github.com/carlos-menezes/target-run
+
+Platform-aware script runner for Node.js projects.
+
+ pnpm add -D target-run
+
+Set a script body to `target-run`, then define platform/arch variants:
+
+ {
+ ""scripts"": {
+ ""test"": ""target-run"",
+ ""test:darwin:arm64"": ""jest --config jest.apple-silicon.config.ts"",
+ ""test:linux:x64"": ""jest --config jest.linux.config.ts"",
+ ""test:default"": ""jest""
+ }
+ }",developer_tools,ai_prelabel,,47424961,carlos-menezes,2026-03-18T12:35:33Z,March 2026,https://news.ycombinator.com/item?id=47424961,47303111
+"Built a BYOK API gateway after getting an unexpected bill from an 
+overnight agent run — hard budget enforcement at the infra layer, 
+not just alerts. Been running it myself for ~10 months, just opened it up.",developer_tools,ai_prelabel,,47410153,qzira,2026-03-17T09:00:58Z,March 2026,https://news.ycombinator.com/item?id=47410153,47303111
+"I working on an app I built called Checkpoint. It’s an open source backup system for developers that protects everything Git ignores. .env files, databases, credentials, local configs.
+
+I started it after an AI coding agent destroyed my SQLite database mid-session for the third time. Git doesn't back up databases, and it shouldn't. But nothing else was doing it either.
+
+It runs silently in the background and watches your project, detects changes, backs up to encrypted cloud storage (Dropbox, Google Drive, OneDrive, iCloud). Supports SQLite, PostgreSQL, MySQL, MongoDB. Has a native macOS menu bar dashboard.
+
+Free and open source. v2.7.0
+
+GitHub: https://github.com/fluxcodestudio/Checkpoint
+Site: https://checkpoint.fluxcode.studio",developer_tools,ai_prelabel,,47381650,fuxcodestudio,2026-03-14T21:55:45Z,March 2026,https://news.ycombinator.com/item?id=47381650,47303111
+"I’ve been working on a project called *Mimesis Protocol* — a structured semantic representation model for natural language.
+
+The basic idea is that an utterance often has a gap between its surface form and its actual function in context. For example, a sentence like “Do you know what time it is?” may look like a question, but pragmatically function as criticism, pressure, or a prompt for reflection.
+
+Mimesis tries to represent an utterance not just as text, but as a structured object with separate layers for:
+- `core`: semantic meaning and emotion
+- `will`: communicative purpose and influence
+- `flow`: discourse framing / progression
+- `exp`: surface realization
+
+I’ve put together:
+- an English/Korean whitepaper
+- a schema spec
+- a working interactive demo
+
+Still early, but I’m interested in whether something like this is useful as an intermediate representation layer for LLM systems, agent workflows, or discourse analysis.
+
+Repo: https://github.com/hangil131/Mimesis-Protocol 
+Demo: https://chatgpt.com/g/g-681be5f72cc4819191c2b12c9d89b336-mim...",ai_ml,ai_prelabel,,47371149,hangil131,2026-03-13T23:00:44Z,March 2026,https://news.ycombinator.com/item?id=47371149,47303111
+"This week I launched IterOps https://iterops.com, a heat mapping, rage click, dead click, scroll mapping, and simple A/B testing tool. I originally built it to have a better idea of what people are doing on my other micro-saas projects like https://securitybot.dev and https://contributoriq.com. Already finding it so useful that I figured I'd just turn it into a product too.",end_user_app,ai_prelabel,,47369810,wjgilmore,2026-03-13T20:59:29Z,March 2026,https://news.ycombinator.com/item?id=47369810,47303111
+"I spent the last two weekends hacking together BiamOS (https://github.com/BiamOS/BiamOS) because I’m tired of how static our workspace still is.
+
+I'm an automation engineer, and I wanted to see if I could move from the ""fragmented web"" to a Single View Era. Instead of just jumping between isolated SaaS silos, BiamOS uses a built-in Chromium webview with persistent sessions (Ghost-Auth) so the local LLM can interact directly with the DOM.
+
+The goal isn't just another browser; it’s a desktop layer where the AI ""reads"" your active context (Gmail, Notion, Slack) and generates a unified UI based on what you’re actually doing. It’s about making the apps disappear into a single, agentic dashboard.
+
+Stack: Electron 34, React 19, Hono, SQLite.
+
+It’s early alpha, but I’m curious: Do you think the future of OS design lies in ""Generative UI"" replacing traditional window management?",end_user_app,ai_prelabel,,47368689,BiamOS,2026-03-13T19:33:59Z,March 2026,https://news.ycombinator.com/item?id=47368689,47303111
+"I'm working on Leedlime[1], a social listening tool that sends you Slack alerts when there's a new lead or someone mentions your product or competitor on social media
+
+[1]: https://leedlime.com",end_user_app,ai_prelabel,,47368368,theanimeshs,2026-03-13T19:10:47Z,March 2026,https://news.ycombinator.com/item?id=47368368,47303111
+"I'm working on my first solo app, Outfit Genie. I am a really unorganized person and struggle to plan outfits ahead of time. I'm also working on upping my style.
+
+Here are the current features
+ - Closet — Add clothing items with photos, category, color, brand, and tags. Visual wardrobe with hanging rod and shelves for browsing by category 
+ - Worn / Hamper tracking — Mark items as Clean, Worn, or in the Hamper to track what needs washing 
+ - Outfits — Build and save multi-piece outfits, organized by occasion 
+ - Weekly Schedule — Assign saved outfits to days of the week
+ - AI Stylist — Get outfit suggestions powered by DeepSeek AI, with live weather integration
+ - Preferences — Set style profile, favorite/avoid colors, occasions, and custom styles
+ - Onboarding — First-launch questionnaire to seed your closet with basic wardrobe pieces
+
+I'm still awaiting approval from Google Play and Apple. I'd love to hear what kind of features y'all would want in an outfit organizer app too.",end_user_app,ai_prelabel,,47367202,abbyw2002,2026-03-13T17:25:31Z,March 2026,https://news.ycombinator.com/item?id=47367202,47303111
+"I've been working on an idea for a logging proxy to track down where internal->external calls are coming from and optionally block them. Been using various AI tools as a way of both getting more comfortable with prompting and learning rust. It's been a fun project so far. Next steps are to figure out how to ease the integration/deployment process if someone wants to actually, you know, use the thing :D
+
+https://github.com/bryan-lott/logprox",developer_tools,ai_prelabel,,47366234,mystickphoenix,2026-03-13T16:00:59Z,March 2026,https://news.ycombinator.com/item?id=47366234,47303111
+I'm implementing a RISC-V assembler and simulator in Rust. It's been a great excuse to learn the ISA and gain some confidence in the language. Now I'm working on pseudoinstructions and it makes me feel like i'm back in college! https://github.com/servomac/ruscv/,developer_tools,ai_prelabel,,47364961,servomac,2026-03-13T14:28:26Z,March 2026,https://news.ycombinator.com/item?id=47364961,47303111
+"Because 9 out 10 Startups fail, early startup investing is not investing, it’s philanthropy with a potential upside. So I’ve created a new game of Venture call VentureStaking where multiple people come together to form a grant for a founder (no debt / no equity) to spend a year researching a problem (ie Thiel Fellowship) and then if that founder discovers something interesting, the grantors can invest up to 10x their grant amount in equity. So, for example, a $100,000 grant creates a potential $1MM equity round to keep the momentum going. Thus, a VentureStaker can give $10 grants to 100 Founders to discover the 3-4 that come up with a great opportunity and invest 10x in those rounds. The SEC has been vetting this system for 8 months and cannot conclude it’s a security which means that we can operate VentureStaking without expensive legal compliance. SEC rules are only triggered at the first equity round and RegCF can allow multiple retail investors in as one line item on the cap table. So now, it’s a game of Discovery to start and smarter investing later. To learn more, go to Doriot dot com.",end_user_app,ai_prelabel,,47364499,gahays68,2026-03-13T13:54:17Z,March 2026,https://news.ycombinator.com/item?id=47364499,47303111
+"I recently launched Notchi (https://github.com/sk-ruban/notchi), a tamagotchi that lives in your Mac notch and emotionally reacts to your Claude Code sessions. It cries when you yell at it and gets happy when you praise it. Drew all the pixel art sprites by hand in Aseprite.",end_user_app,ai_prelabel,,47363546,rubansk,2026-03-13T12:27:51Z,March 2026,https://news.ycombinator.com/item?id=47363546,47303111
+"Recently launched https://clicksheet.pro/ because I wasted so much time dealing with uploading 10's of csv files to google sheets on a daily basis. If you're in operations, this will be interesting for you.",end_user_app,ai_prelabel,,47362840,klueinc,2026-03-13T11:08:21Z,March 2026,https://news.ycombinator.com/item?id=47362840,47303111
+"Building FoJin (https://fojin.app) — an open-source platform that
+ aggregates Buddhist digital texts from 440+ global sources (CBETA,
+ SuttaCentral, BDRC, SAT, 84000, GRETIL, etc.) into one searchable
+ interface.
+
+ Stack: React + TypeScript, FastAPI, PostgreSQL with pgvector,
+ Elasticsearch 8 (ICU analysis for CJK), Redis. Features include a
+ knowledge graph (9,600+ entities), 237K dictionary entries, full-text
+ reading of 4,488 fascicles, and RAG-powered AI Q&A grounded in 11M
+ characters of canonical text.
+
+ GitHub: https://github.com/xr843/fojin",end_user_app,ai_prelabel,,47360514,XR843,2026-03-13T03:55:20Z,March 2026,https://news.ycombinator.com/item?id=47360514,47303111
+"- Ebook translation with AI https://polylexis.com/
+
+- OSS - Stricture, a linter to prevent architecture drift https://github.com/stricture-dev/stricture
+
+- OSS - Enforma, super-productive react forms https://github.com/jacarma/enforma",developer_tools,ai_prelabel,,47356471,jacarma,2026-03-12T20:19:20Z,March 2026,https://news.ycombinator.com/item?id=47356471,47303111
+"I'm building Reveal, an open-source color separation engine for screen printing. It takes a full-color image and reduces it to 3-10 spot colors. This is not for CMYK 4-color process or simulated process ('halftones' using opaque colors).
+
+The core is pure JavaScript with zero dependencies. It works in Lab color space (not RGB) using Wu quantization, CIE perceptual distance metrics, and a DNA fingerprinting system that matches each image to one of 20+ built-in archetypes (Golden Hour, Dark Portrait, Fine Art Scan, etc.).
+
+There's a browser-based web UI that just needs Node.js — drop an image, get 4 different possible separations side by side, export as layered OpenRaster (for GIMP/Krita), or flat PNG, or layered PSD (for Photoshop). There's also a CLI and Photoshop plugin.
+
+Apache 2.0: https://github.com/electrosaur-labs/reveal
+
+Some of my screen prints: https://www.electrosaur.org",end_user_app,ai_prelabel,,47352223,electrosaur,2026-03-12T15:30:52Z,March 2026,https://news.ycombinator.com/item?id=47352223,47303111
+"Recently, I've been working on Backdrop [1], a desktop app for taking and beautifying screenshots.
+
+The idea came from trying to find a neat screenshot app on Linux for taking and sharing screenshots for another SaaS I'm working on: LanguagePuppy [2], but I couldn't find one that worked. So I rolled up my sleeves and started to make my own using Clojure.
+
+The main features are:
+1. Taking screenshots
+2. Adding padding, shadow, and rounded corners to the screenshot
+3. Adding background
+4. Choosing the right ratio for your target social media
+5. Adding watermark
+6. And more
+
+Eventually, it should work on Linux, Windows, and macOS when I launch.
+
+P.S. I am building both with Clojure, a functional programming language, and Lisp.
+
+[1] https://backdrop.whatacold.io/
+
+[2] https://languagepuppy.com/",end_user_app,ai_prelabel,,47352108,whatacold,2026-03-12T15:25:15Z,March 2026,https://news.ycombinator.com/item?id=47352108,47303111
+"Working on Engram, a cognitive memory system for AI agents. Instead of vector DB + semantic search, it uses models from cognitive science (ACT-R activation decay, Hebbian learning, forgetting curves) to decide what to remember and what to forget. Been running it in production for a month, 230K+ recalls. Just shipped v2 with multi-agent shared memory.
+https://github.com/tonitangpotato/engram-ai
+https://github.com/tonitangpotato/engram-ai-rust",ai_ml,ai_prelabel,,47351473,tonipotato,2026-03-12T14:53:49Z,March 2026,https://news.ycombinator.com/item?id=47351473,47303111
+"I am working on Plain Invoice (https://plaininvoice.com) — A free invoice generator for freelancers and small businesses. No signup required — just fill in your details, pick a currency (40+ supported), and download
+ the PDF or email it directly.
+
+ I built it because every invoicing tool I tried either required an account, had a paywall after 3 invoices, or was way overbuilt for someone who just needs to send a clean invoice. This keeps it simple
+ — pick your invoice type (hourly, product, or fixed price), add tax/discounts if needed, and you're done.
+
+ Would love any feedback from fellow freelancers or indie devs.",end_user_app,ai_prelabel,,47349718,5balloons,2026-03-12T12:34:43Z,March 2026,https://news.ycombinator.com/item?id=47349718,47303111
+"Building a macOS app launcher called AppTela (https://apptela.com). Apple removed Launchpad in Tahoe and the replacement is pretty bare, so I built something with more depth and honestly better than most alternatives out there (IMHO). You can organise apps across screens, categories, groups and stacks. The stacks concept is the bit I'm most pleased with - pile apps on top of each other visually, or create launch stacks that open a whole set of apps at once. Also added a shadow engine where icons cast shadows based on the time of day, which was a fun experiment.
+
+Just launched on the Mac App Store last week, now figuring out the discovery side which is the hard part. Turns out that doing the best App doesn't mean much if no one knows it exists!",end_user_app,ai_prelabel,,47349676,apptela,2026-03-12T12:31:01Z,March 2026,https://news.ycombinator.com/item?id=47349676,47303111
+"Building motivational-quotes.net — an AI-powered quotes content site 
+designed to scale.
+
+The core pipeline: AI generates structured quote pages → automated 
+image synthesis with custom JSON templates (typography, gradients, 
+layout) → Pinterest distribution for social traffic alongside Google SEO.
+
+Currently in English traffic validation phase. Interesting challenge 
+has been tuning the image generation — switching from monospace to 
+serif fonts made a surprisingly big visual difference. Also figuring 
+out the right balance between AI-generated content volume and quality 
+signals Google actually cares about.
+
+Next steps: Spanish/Portuguese expansion, then launching 
+inspirationalquotes.app as a paid AI quote image tool for social 
+media managers and HR teams.
+
+Happy to discuss AI content site architecture or Pinterest SEO 
+if anyone's been down this road.
+https://motivational-quotes.net",end_user_app,ai_prelabel,,47348406,greey2026,2026-03-12T09:41:00Z,March 2026,https://news.ycombinator.com/item?id=47348406,47303111
+I'm working on Colorguesser.xyz - a game to check how good your color sense is.,end_user_app,ai_prelabel,,47347894,beingmani,2026-03-12T08:18:52Z,March 2026,https://news.ycombinator.com/item?id=47347894,47303111
+"Built (and yes, partly vibecoded) https://progressbars.dev — a tiny service that renders progress bars as PNGs via the URL. Idea was to make something simple to embed in READMEs, docs, Slack messages, etc.
+
+Example: https://progressbars.dev/400x40/3/10",developer_tools,ai_prelabel,,47347296,jvanryck,2026-03-12T06:45:04Z,March 2026,https://news.ycombinator.com/item?id=47347296,47303111
+"YouBrokeProd
+
+A fun simulation game of prod breaking where you have to race to troubleshoot and fix the issue. Great for SREs, devs devops, founders and teams to learn in a non prod environment but feels real.
+
+We are in beta and would love feedback!
+
+Was on show hm the other day
+https://news.ycombinator.com/item?id=47323915
+
+https://www.youbrokeprod.com/",end_user_app,ai_prelabel,,47340419,cdnsteve,2026-03-11T19:53:57Z,March 2026,https://news.ycombinator.com/item?id=47340419,47303111
+"I've been obsessed with game theory for years. Started by reimplementing papers, got annoyed at how bad the tooling was, wrote my own, and somewhere along the way realized the field's core assumptions about competition are wrong. Helps that many of my friends are from the competitive gaming scene -- multi-R1 players, MLG winners, etc. So I get to have a view on strategy from both the FANG MLE/SWE side but also the actually competing at the highest levels side.
+
+Decided to found a company with some of those friends, bridging computational game theory and large language models :)
+
+https://mieza.ai/",developer_tools,ai_prelabel,,47340223,JoshCole,2026-03-11T19:39:05Z,March 2026,https://news.ycombinator.com/item?id=47340223,47303111
+"A web based inventory management app. I've wanted to try something like this for a long time, but it always seemed completely impractical to spend a few weeks on before AI, without knowing if the entire idea is actually practical.
+
+So far, I think it is in fact worth it, but only in specific use cases, like very rarely accessed items with no obvious place, and making sure your AV gear you bring to events comes back with you.
+
+* Every item is a container, unlimited nesting
+
+* Everything stored in the browser with YJS, very clunky peer.js or manual file sync available
+
+* Select an object, click add items, scan QR codes to add those items
+
+* There's also NFC support on Chrome mobile
+
+* Generate random printable QR sheets(Still need to fix sticker alignment issues)
+
+* Tracks where an item was last scanned with GPS
+
+* Save container contents as a loadout, check contents against loadout
+
+* Can mark a container as needing re-inventory, contents that haven't been re-added after that show a warning
+
+https://eternityforest.github.io/Stuffer/",end_user_app,ai_prelabel,,47338343,eternityforest,2026-03-11T17:14:46Z,March 2026,https://news.ycombinator.com/item?id=47338343,47303111
+"Working on https://dataraven.io/ – a low-cost, cloud-agnostic data movement platform focused on object storage. In the past month I've added API keys, audit logs, and rclone.conf import for rapid onboarding.
+
+RClone is doing the heavy lifting of reliable & fast cloud to cloud transfer. I'm wrapping it with the operational features clients have asked me for over the years:
+
+ - Team workspaces with role-based access control & complete audit log of all activity
+ - Notifications – alerts on transfer failure or resource changes via Slack, Teams, json webhook, etc.
+ - Centralized log storage/archiving
+ - Bring your Own Vault integrations – connect 1Password, Doppler, or Infisical for zero-knowledge credential handling
+ - 10 Gbps connected infrastructure for handling large transfers",developer_tools,ai_prelabel,,47336995,coreylane,2026-03-11T15:36:42Z,March 2026,https://news.ycombinator.com/item?id=47336995,47303111
+"I'm working on a phytochemical dataset product. The base is USDA Dr. Duke's Phytochemical and Ethnobotanical Databases — 16 relational CSV tables that I denormalized into a single flat table in PostgreSQL. Then I ran async Python enrichment pipelines against PubMed, ClinicalTrials.gov, ChEMBL, and PatentsView (USPTO), producing 8 columns per record across 104,388 rows.
+
+The interesting engineering problem was ChEMBL: most phytochemical names don't have direct ChEMBL entries, so the pipeline first tries a name match, then falls back to PubChem for CID → InChIKey resolution before hitting ChEMBL's molecule API. Full enrichment with Aho-Corasick string matching took ~24 seconds for 24,771 compounds.
+
+Building the commercial layer on top: Rust/Actix-Web API, 97K static pSEO pages on Cloudflare Workers/R2, Stripe for one-time purchases. Solo founder, bootstrapped, based in Germany.",developer_tools,ai_prelabel,,47336053,wirthal1990,2026-03-11T14:31:36Z,March 2026,https://news.ycombinator.com/item?id=47336053,47303111
+"https://techtalksweekly.io/
+
+I'm working on Tech Talks Weekly which is a free weekly email with all the recently published Software Engineering conference talks in the past 7 days.
+
+Every week I pull all the new talk recordings from hundreds of conferences (Devoxx, KubeCon, PyCon, QCon, LeadDev, JSNation, and many more). I feature the ones I think are must-watch with short summaries written by me, then include a list of everything else uploaded that week.
+
+It started as a personal project to fix my own messy YT subscriptions and RSS feeds and now 8,700+ people read it.
+
+I also publish extra editions from time to time like “The Most Watched Talks of 2024” which made it to the HN front page. Currently, I'm working on 2025 edition that will be published very soon.
+
+If you watch software engineering conference talks, you might find it useful.
+
+I’d love to know what you think!",end_user_app,ai_prelabel,,47333350,techtalksweekly,2026-03-11T09:18:22Z,March 2026,https://news.ycombinator.com/item?id=47333350,47303111
+"Honestly, I thought that if I had an AI knowledge base instead of code, anything would work, so I created this OpenID Connect OP (IdP) that processes data in real time according to specifications using AI.
+Have fun!
+https://github.com/snakaya/GenAI-OIDC-IdP",developer_tools,ai_prelabel,,47333046,snakaya,2026-03-11T08:35:06Z,March 2026,https://news.ycombinator.com/item?id=47333046,47303111
+"https://hn.alcazarsec.com/daily
+
+I'm also publishing a hackernews daily digest.
+
+This story was included in the March 9th issue (https://hn.alcazarsec.com/daily?date=2026-03-09).
+
+ Hacker News users are currently developing a diverse range of projects, from a retro-inspired city builder game [0] and an award-winning daily word puzzle [4] to a European-based search engine alternative [2] and a NSFW filter for the Marginalia search engine [8]. Several developers are focusing on practical tools for family and personal life, including an educational site to help relatives identify AI-generated content [1], a ""statphone"" for emergency family alerts [3], and a local-first financial tracking app using double-entry accounting [6]. Others are experimenting with advanced technical implementations, such as using LLM agents to backtest stock trading strategies [5], ""vibe-coding"" CLI tools, and designing a new language for bare-metal embedded devices [7].",end_user_app,ai_prelabel,,47331565,alcazar,2026-03-11T03:49:13Z,March 2026,https://news.ycombinator.com/item?id=47331565,47303111
+"Building Vox Labs, an AI-powered outbound sales platform for founders, small sales teams, and agencies. The idea is you work with it the way you'd direct an SDR: give it guidance and it handles research, enrichment, personalization, and sequencing.
+
+Stack is React frontend, Node.js backend, Claude as the primary AI layer for orchestration.
+
+The most interesting engineering problem has been the orchestration layer. Getting an agent to handle multi-step outbound workflows with real judgment, not just automation, takes a lot of iteration on the prompting and state management side. Also feedback from users on the best workflows to collaborate with agents.",end_user_app,ai_prelabel,,47331455,nickcoffee,2026-03-11T03:28:08Z,March 2026,https://news.ycombinator.com/item?id=47331455,47303111
+"Working on [context-use](https://github.com/onfabric/context-use) to turn data exports into portable AI memories.
+
+I've been searching, posting, chatting on various platforms for more than a decade now. context-use allows me to turn all those years of data into context that I can bring to my favorite agents.",ai_ml,ai_prelabel,,47330456,maxalbarello,2026-03-11T00:22:32Z,March 2026,https://news.ycombinator.com/item?id=47330456,47303111
+"Three of us friends are working on ""Data Engineer in a box"" or ""Cursor for Data"": https://getnile.ai
+
+Our thesis is that a lot of Data Engineering practiced today is non-differentiated across companies and they'd rather spend that time on differentiated tasks. What if we can abstract away a lot of the tedious parts of DE work and let companies focus on just the data they want to store, and the questions they have on their data?
+
+So today, we have an MVP that manages the compute, storage, lineage, versioning and pipeline building for datasets. Would LOVE to get feedback on this or your early thoughts!",developer_tools,ai_prelabel,,47328915,niyazpk,2026-03-10T21:21:05Z,March 2026,https://news.ycombinator.com/item?id=47328915,47303111
+"https://github.com/VoidenHQ/voiden
+
+Today I released the community plugins for Voiden.
+
+This is a big one because one of the things I dont want is the API tool to become bloated with new features - so I want to allow anyone to build plugins to grow the tool.
+
+docs: https://docs.voiden.md/docs/plugins/build-a-plugin",developer_tools,ai_prelabel,,47328211,nikolasdimi,2026-03-10T20:11:47Z,March 2026,https://news.ycombinator.com/item?id=47328211,47303111
+"Https://Poolpilot.online
+
+Managing our above ground pool this summer and small hot tub in winter and continually asking ""why isn't this easier"" led to the development of Pool Pilot. Scan a test strip with your camera, water care recommendation checklist generates and you can order more supplies if needed easily from Amazon. Basically met my personal need and hoping it will help others too.
+
+The fun technical bit: test strip chart colors can vary by manufacturer and even between production batches, but, the specific color chart that comes on a bottle should be accurate to those specific steps. Additionally, test strip colors are notoriously hard to match from photos. RGB comparison falls apart with lighting changes. After many interesting and considerations we calibrate of the specific test strip bottle and we use LAB color space and Anthropic's Claude vision model to read strips directly. This has worked exceptionally well in our testing and works with any brand;
+
+The app also offers timers, history and much more. It has become a minor obsession.
+
+React Native/Expo, Firebase backend, $10/year after 3 free tests (early tier pricing). Would love feedback from any fellow pool or hot tub owners.",end_user_app,ai_prelabel,,47328171,marktl,2026-03-10T20:07:46Z,March 2026,https://news.ycombinator.com/item?id=47328171,47303111
+"Envelope https://envelopebudgeting.com
+
+It's a budgeting app I'm building for iOS and Android. It's an alternative to YNAB, Goodbudget, or Monarch, but the checking account and debit cards are built-in, so it avoids the unreliable syncing issues that make budgeting apps suck. It's named after the digital envelope system and helps you organize money into categories for bills, spending, savings, upcoming expenses, etc. Individual and joint accounts.
+
+Right now I'm working on an upcoming paycheck detection system to automatically split your paycheck across your budgets.",end_user_app,ai_prelabel,,47327860,joshuakcockrell,2026-03-10T19:38:34Z,March 2026,https://news.ycombinator.com/item?id=47327860,47303111
+"I'm building HN alternative =)
+
+- https://crow.watch",end_user_app,ai_prelabel,,47327354,medv,2026-03-10T18:52:24Z,March 2026,https://news.ycombinator.com/item?id=47327354,47303111
+"Currently working in data story telling newsletter - sheets.works/data-viz
+check it out, new stories everyday",end_user_app,ai_prelabel,,47327310,akashwadhwani35,2026-03-10T18:50:00Z,March 2026,https://news.ycombinator.com/item?id=47327310,47303111
+"I keep running into the same problem: I read a message, think I’ll reply later, and then forget for weeks. Sometimes I also realize I haven’t talked to someone important in months and have no idea how that happened.
+
+I’m exploring an app idea called Nudge that would gently remind you to check in with specific people if it’s been a while.
+
+I’m trying to validate whether this is a real problem worth building for. Waitlist here: https://forms.gle/pHMABTsbctLXZPZj6
+
+Would you use something like this, or do existing tools already solve it well?",end_user_app,ai_prelabel,,47326949,calebbertumen,2026-03-10T18:22:35Z,March 2026,https://news.ycombinator.com/item?id=47326949,47303111
+"Currently working on adding MySQL support to Greenmask (a database anonymization and synthetic data generation tool).
+
+The interesting part is that it’s not just about adding another database driver. I’m revisiting a big part of the codebase and introducing a framework that should make implementing support for new DBMSs much simpler. The goal is to make Greenmask more extensible so that the community can add support for other databases without needing to dig through the entire internal architecture.
+
+Published the first beta of this new approach a few months ago, and now the focus is on stabilizing it and making it production-ready.
+
+MySQL support discussion:
+https://github.com/GreenmaskIO/greenmask/issues/222
+
+Beta release:
+https://github.com/GreenmaskIO/greenmask/releases/tag/v1.0.0...",developer_tools,ai_prelabel,,47326796,woyten,2026-03-10T18:08:42Z,March 2026,https://news.ycombinator.com/item?id=47326796,47303111
+"I'm building a human-curated map that organizes people and sources by topics (health, skills, business, mindset, etc.). Everything is categorized manually, no AI classification. Started as spreadsheets and now turning it into a prototype.",end_user_app,ai_prelabel,,47325669,vadelfe,2026-03-10T16:42:10Z,March 2026,https://news.ycombinator.com/item?id=47325669,47303111
+"I am building an AI generated podcast..which creates a fun, informative podcast on news stories impacting the Indian stock market.
+
+One podcast a day
+
+Here it is: https://www.youtube.com/@FoliyoAI",end_user_app,ai_prelabel,,47325580,mohi13,2026-03-10T16:36:15Z,March 2026,https://news.ycombinator.com/item?id=47325580,47303111
+"I'm trying to take advantage of claude with implementing every idea that I have;
+
+- a minesweeper game for my kid with his ideas
+
+- a whatsapp archive/heatmap generator
+
+- a fleet management application for my friend
+
+- a TUI for managing RAG solution as memory for my daily job projects.
+
+- a kindergarten communication application
+
+- a kid booklet application
+
+- playwright scripts for any manual browser based regular job",end_user_app,ai_prelabel,,46966285,sabri_eker,2026-02-10T20:22:25Z,Feb 2026,https://news.ycombinator.com/item?id=46966285,46937696
+"I’ve been working on a small side project to help diagnose common mouse issues like double-clicking and scroll wheel jitter.
+
+It’s a simple, no-backend web tool that visualizes raw mouse input directly in the browser, mainly because I kept running into these issues myself and wanted a quick way to tell hardware problems from software ones.
+
+If anyone’s curious, it’s here: https://mousetester.net",end_user_app,ai_prelabel,,46956630,greey2026,2026-02-10T07:56:21Z,Feb 2026,https://news.ycombinator.com/item?id=46956630,46937696
+"https://github.com/Japoneris/libzim-website-converter
+
+(Personal project, not professional one)
+
+Working on a website archive tool for watching them offline.
+It collects a website, and makes .Zim with ( equiv of .zip), then watch it when you have no internet access / only local network.
+
+The tool use libzim, where i did not find ''easy to use'' tools to create custom archives.",developer_tools,ai_prelabel,,46956124,japoneris,2026-02-10T06:38:10Z,Feb 2026,https://news.ycombinator.com/item?id=46956124,46937696
+"I hacked together a tech demo of a personal project to add a Jetson Orin Nano to augment the Nikon autofocus system. (Camera->HDMI->Jetson processing->USB control->Camera)
+
+https://github.com/jerich/jetson-face-af
+
+It was a personal project to let Claude Code loose and have something to talk about on LinkedIn, hopefully to start a conversation about how to add some more advanced, more personal, functions to the powerful AF systems out there.
+
+“Nikon AF does a great job of recognizing faces, but it doesn’t know which faces I care about.”
+
+But I wanted to augment, not completely take over the camera; keep the Nikon shooting ergonomics intact.
+
+Even the latest and greatest cameras will lag the processing power of something like a Jetson Nano, or even a mobile chipset, and cameras are meant to have lifetimes of years, so I think a smart camera manufacturer (hopefully Nikon) should add an easy external processing loop to let users add some extra smarts and automation.",end_user_app,ai_prelabel,,46954342,jerich,2026-02-10T01:53:21Z,Feb 2026,https://news.ycombinator.com/item?id=46954342,46937696
+"I've been playing around with this app for a little bit to scratch my own itch and figured I'd like to share and open-source it, since the arcane knowledge of Bambu MQTT is very heavily borrowed from other OSS projects.
+
+bambutop -- a Rust/Ratatui TUI built for monitoring your BambuLab 3d printer.
+
+Operates fully locally, catching the MQTT messaging that your printer already sends over the LAN. No cloud, no accounts, direct access to your printer(s)…
+
+Super lightweight, shows just about everything you'd want to see on idle printers or running prints, and supports multiple printers & AMS.
+
+https://github.com/rhoopr/bambutop",end_user_app,ai_prelabel,,46953784,rhoopr,2026-02-10T00:41:08Z,Feb 2026,https://news.ycombinator.com/item?id=46953784,46937696
+"I recently retired after 37 years of working in tech so of course I am working on open source.
+
+My retirement treat was to spend three months learning OpenGL and 3D game programming by porting a classic Java RTS game, Tribal Trouble, to more modern OpenGL and Java. I learn much better working with real code and this was a great experience. It was certainly a different experience than it would have been without an LLM teacher, reviewer, helper, assistant. The app was beautifully designed and very cleanly implemented back in Java 1.4 days of 2004 so it has been a joy to modernize it while attempting to preserve the clean design. The OpenGL work and the necessary math was a lot different than what I have been doing for most of my career so it was a lot of fun. I will probably continue tinkering with Tribal Trouble occasionally as I still enjoy playing the game. I want to learn Blender to edit/improve the 3D models. (https://github.com/bondolo/tribaltrouble)
+
+For now I have mostly moved on from gaming and am instead working on improving the accessibility (#a11y) of the Wireshark network protocol capture/analysis tool. There are a lot of blind and low vision IT folks for whom this tool is a job requirement. The current accessibility is unfortunately poor. I've submitted my first PR and am relearning the Wireshark source after last contributing 20 years ago. It's also been 15 years since the last time I did anything with Qt so that has been a refresher as well. I don't enjoy working in C++ but the goal matters so I will suffer through. (https://wireshark.org)
+
+I plan to work on Wireshark for a couple of months at least and then look for something else to contribute to, probably also accessibility related. I have some ideas already about next apps. I'm currently tempted to build an NFC app for iOS in Swift but haven't decided yet. After having built in the last year both Kotlin Compose and TypeScript React apps, none of which I enjoyed very much, I am somewhat curious if Swift and SwiftUI will be more fun.",end_user_app,ai_prelabel,,46953722,bondolo,2026-02-10T00:33:50Z,Feb 2026,https://news.ycombinator.com/item?id=46953722,46937696
+"decided to learn a low level language since I never wrote any and I'm self taught dev, created this abomination of interpretation of kilo.c in zig: https://github.com/kyhyy/kz
+
+Soon will add readme and syntax highlighting for zig itself (was too scared to deviate from C guide lol)",developer_tools,ai_prelabel,,46952626,ky-hy,2026-02-09T22:43:46Z,Feb 2026,https://news.ycombinator.com/item?id=46952626,46937696
+"Working on a little ""passion project"" that has ended up consuming a lot of weekends now, but it's been a lot of fun.
+
+I've been building https://photoweather.app because I never end up having time to look at weather forecasts, which means I also don't go out with my camera enough since outdoor photography is quite a weather dependent activity.. so I'm trying to turn this around by having the app tell me when and where I could be photographing instead.
+
+It's a bit of a challenge for sure, weather forecasts are not always the most reliable, not to mention learning enough about weather to forecast photographic opportunities.. but it's also been really enjoyable to finally build something real and something that I myself actually use all the time.",end_user_app,ai_prelabel,,46949966,pontussw,2026-02-09T19:38:27Z,Feb 2026,https://news.ycombinator.com/item?id=46949966,46937696
+"In my evenings and weekends I've been working on a photo sharing app for families who want to keep their photos off of social media but still share with family.
+
+I'm expecting my first child soon so I am building it for me and my family first but if it solves a problem for me, maybe others will like it!
+
+The basic idea is that you are uploading a curated set of photos you want to share, not your whole camera roll.
+
+You can create one or several family groups that you can share individual photos or albums to. Members of those family groups can view, comment on, like, etc those photos.
+
+You can also generate sharable links for people who don't have an account with a configurable expiry time.
+
+It currently more or less works on the web but I am also working on iOS and Android apps since that is how my extended family would want to interact with it.
+
+I'm not quite ready to launch it to the public but if anybody is interested in trying it out or offering feedback I can privately share it :)",end_user_app,ai_prelabel,,46945955,Slaul,2026-02-09T15:00:54Z,Feb 2026,https://news.ycombinator.com/item?id=46945955,46937696
+"Still working on:
+
+https://www.votivus.org
+
+A hobby project I started putting together late last year; a little spot on the internet for prayer and reflection.
+
+https://dugnad.stavanger-digital.no/
+
+A pro bono tech consultancy for local non profits. The idea is to help them use tech to better deliver on their mission.
+
+Just today I finished off building a little PWA to help a couple of non-profits offload the admin of volunteer scheduling (mostly done through whatsapp, messenger, etc).
+
+I'd recommend others try the same pro bono consulting in their local area, it's quite rewarding!",end_user_app,ai_prelabel,,46946203,starwatch,2026-02-09T15:21:54Z,Feb 2026,https://news.ycombinator.com/item?id=46946203,46937696
+"I recently finetuned an LLM (gemma-3-270M) to extract recipes from blog posts.
+
+My thoughts are that this is a perfect model for running locally on an iPhone in a recipe-management app.
+
+Wrote a blog about what I learned while finetuning it https://vladr.com/blog/posts/finetuning-gemma3-to-extract-re...
+
+And published the model on HF https://huggingface.co/v-rusu/recipe-extractor",ai_ml,ai_prelabel,,46966621,vlad-r,2026-02-10T20:44:26Z,Feb 2026,https://news.ycombinator.com/item?id=46966621,46937696
+"I study German and decided to write app to simplify some tasks:
+1) generate anki cards from text
+2) extract highlighted words from paper and generate anki cards
+3) collection of texts/dialogs on random topics
+4) and so on... )
+
+not sure if someone needs it, but very helpful for me )",end_user_app,ai_prelabel,,46952688,hudvin,2026-02-09T22:48:15Z,Feb 2026,https://news.ycombinator.com/item?id=46952688,46937696
+My first research paper about World Model caching !,ai_ml,ai_prelabel,,46949265,kuberwastaken,2026-02-09T18:54:01Z,Feb 2026,https://news.ycombinator.com/item?id=46949265,46937696
