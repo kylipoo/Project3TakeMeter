@@ -117,7 +117,7 @@ Comment:
 
 ## Evaluation report
 
-Both models are scored on the **same 41-row held-out test set** (`random_state=42` split: 20 `end_user_app` / 17 `developer_tools` / 4 `ai_ml`), so they are directly comparable. **Macro-F1 is the headline metric, not accuracy** — the classes are imbalanced (`ai_ml` ≈ 11%), and a model can post high accuracy while barely predicting the rare class. Macro-F1 weights all three classes equally, exposing exactly that failure.
+Both models are scored on the **same 41-row held-out test set** (`random_state=42` split: 20 `end_user_app` / 17 `developer_tools` / 4 `ai_ml`), so they are directly comparable.
 
 ### Overall accuracy — both models
 
@@ -141,17 +141,9 @@ Per-class **F1** side by side (the comparison that matters under imbalance):
 
 Both models are strong and nearly tied on the two well-populated classes. The entire gap is `ai_ml`: the baseline catches 3 of 4 (F1 0.57) where the fine-tuned model manages 2 of 4 with poor precision (F1 0.40).
 
-Full precision / recall / F1 for the **fine-tuned** model (derived from the confusion matrix below):
+Full precision / recall / F1 for the **fine-tuned** model:
 
-| Class             | Precision | Recall | F1       | Support |
-| ----------------- | --------- | ------ | -------- | ------- |
-| `end_user_app`    | 0.89      | 0.85   | 0.87     | 20      |
-| `developer_tools` | 0.88      | 0.82   | 0.85     | 17      |
-| `ai_ml`           | 0.33      | 0.50   | 0.40     | 4       |
-| **Macro avg**     | 0.70      | 0.72   | 0.71     | 41      |
-| **Accuracy**      |           |        | **0.80** | 41      |
-
-The `ai_ml` row tells the story: recall 0.50 (catches 2 of 4) but precision only **0.33** — the model **over-fires `ai_ml`**, predicting it 6 times when just 4 are real.
+![alt text](<Screenshot 2026-06-19 at 5.41.06 PM.jpg>)
 
 ### Confusion matrix — fine-tuned model
 
@@ -172,7 +164,7 @@ Diagonal = 17 + 14 + 2 = **33 correct / 41 = 0.80**. There are 8 errors, and **`
 
 The `developer_tools` ↔ `end_user_app` boundary is essentially clean. **The boundary the model never learned is `ai_ml`.**
 
-### Error analysis — why the model fails (4 of the 8 misses)
+### Error analysis — why the model fails (Analysis of 4 of the 8 misses)
 
 > **#7 — TUI framework for tokamak.** _"I am working on a TUI framework for tokamak … so I can then use it for my local agent harness."_ — true `developer_tools` → predicted **`ai_ml` at 1.00 confidence.**
 > The deliverable is a **TUI framework** (a developer tool); "agent harness" is a downstream _use_, not the product. The model latched onto "agent" and fired `ai_ml` at full confidence, ignoring the head noun. This is the dominant failure direction: AI vocabulary used in passing drags dev-tool posts into `ai_ml`.
@@ -192,7 +184,7 @@ The `developer_tools` ↔ `end_user_app` boundary is essentially clean. **The bo
 
 **Is this a labeling problem or a data problem?** A **data problem**, not annotation inconsistency. The label definition is explicit and was applied consistently ("the intelligence is the product, not a feature"); similar posts are labeled the same way, and the errors are **systematic and directional** rather than scattered — a sign the target is consistent and _learnable_, just under-sampled. The binding constraint is **absolute scarcity: 22 `ai_ml` training examples / 4 test.** Down-sampling + class weights fixed the _relative_ imbalance but cannot manufacture coverage of a hard boundary that barely exists in the data.
 
-**What would need to change to fix it?** In priority order: (1) **more `ai_ml` examples, specifically near-boundary ones** — dev tools that mention AI but aren't `ai_ml`, and AI-core products dressed as consumer apps — so the model sees the distinction explicitly instead of keying on keywords; (2) more _diverse_ `ai_ml` examples overall (22 is too few to span the class); (3) only then tighter annotation guidelines — but since labeling is already consistent, more boundary data is the bigger lever. A useful side effect: it would also fix the **miscalibration** seen here (1.00 confidence on flatly wrong `developer_tools` → `ai_ml` calls).
+**What would need to change to fix it?** In priority order: (1) **more `ai_ml` examples, specifically near-boundary ones, like look out for if the AI is referred to in the same context as another tool which would show it's not the main topic** — dev tools that mention AI but aren't `ai_ml`, and AI-core products dressed as consumer apps — so the model sees the distinction explicitly instead of keying on keywords; (2) more _diverse_ `ai_ml` examples overall (22 is too few to span the class); (3) only then tighter annotation guidelines — but since labeling is already consistent, more boundary data is the bigger lever. A useful side effect: it would also fix the **miscalibration** seen here (1.00 confidence on flatly wrong `developer_tools` → `ai_ml` calls).
 
 > **Reproducibility caveat — read before trusting the exact decimals.** The committed artifacts come from more than one run and disagree by ~1 example:
 >
