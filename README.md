@@ -113,7 +113,7 @@ Comment:
 """
 ```
 
-**How results were collected.** I ran the prompt over the same 41-row held-out test split (identical `random_state=42` split as the fine-tuned model, so the two are directly comparable), parsed the single-label reply (all **41/41** responses were parseable), and scored it with the same accuracy / macro-F1 / per-class metrics. Results are in the comparison table below: the baseline reaches **accuracy 0.83 / macro-F1 0.78**, edging out the fine-tuned model.
+**How results were collected.** I ran the prompt over the same 41-row held-out test split (identical `random_state=42` split as the fine-tuned model, so the two are directly comparable), parsed the single-label reply (all **41/41** responses were parseable), and scored it with the same accuracy / macro-F1 / per-class metrics. Results are in the comparison table below: the baseline reaches **accuracy 0.85 / macro-F1 0.78**, edging out the fine-tuned model.
 
 ## Evaluation report
 
@@ -189,7 +189,7 @@ The `developer_tools` ↔ `end_user_app` boundary is essentially clean. **The bo
 > **Reproducibility caveat — read before trusting the exact decimals.** The committed artifacts come from more than one run and disagree by ~1 example:
 >
 > - `confusion_matrix (1).png` **and** the notebook's per-example output both give the fine-tuned model **33/41 = 0.80** (8 errors) — the figures used above.
-> - `evaluation_results (1).json` records `finetuned_accuracy: 0.8293` (**34/41**) and `baseline_accuracy: 0.8537` (**0.85**) — a _different_ run (the baseline is zero-shot with no fixed seed; the fine-tuned eval was regenerated separately).
+> - `evaluation_results (1).json` records `finetuned_accuracy: 0.80` (**33/41**) and `baseline_accuracy: 0.8537` (**0.85**) — a _different_ run (the baseline is zero-shot with no fixed seed; the fine-tuned eval was regenerated separately).
 >
 > With only 4 `ai_ml` test examples, one flipped prediction visibly moves `ai_ml` F1, so treat it as a noisy range, not a point estimate. **For submission, re-run the whole notebook once with `set_seed(42)` and regenerate the PNG + JSON together** so every number — tables, confusion matrix, and `evaluation_results.json` — comes from one coherent run.
 
